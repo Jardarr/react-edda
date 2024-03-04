@@ -1,13 +1,221 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+/* Box sizing rules */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+/* Prevent font size inflation */
+html {
+  -moz-text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+  text-size-adjust: none;
+}
+
+/* Remove default margin in favour of better control in authored CSS */
+body, h1, h2, h3, h4, p,
+figure, blockquote, dl, dd {
+  margin: 0;
+}
+
+/* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
+ul[role=list],
+ol[role=list] {
+  list-style: none;
+}
+
+/* Set core body defaults */
+body {
+  min-height: 100vh;
+  line-height: 1.5;
+}
+
+/* Set shorter line heights on headings and interactive elements */
+h1, h2, h3, h4,
+button, input, label {
+  line-height: 1.1;
+}
+
+/* Balance text wrapping on headings */
+h1, h2,
+h3, h4 {
+  text-wrap: balance;
+}
+
+/* A elements that don't have a class get default styles */
+a:not([class]) {
+  -webkit-text-decoration-skip: ink;
+          text-decoration-skip-ink: auto;
+  color: currentColor;
+}
+
+/* Make images easier to work with */
+img,
+picture {
+  max-width: 100%;
+  display: block;
+}
+
+/* Inherit fonts for inputs and buttons */
+input, button,
+textarea, select {
+  font: inherit;
+}
+
+/* Make sure textarea without a rows attribute are not tiny */
+textarea:not([rows]) {
+  min-height: 10em;
+}
+
+/* Anything that has been anchored to should have extra scroll margin */
+:target {
+  scroll-margin-block: 5ex;
+}
+
+/*----Main----*/
+.main_wrapper {
+  display: flex;
+  justify-content: center;
+  background-image: url("./img/thursarn.jpg");
+  background-attachment: fixed;
+  background-position: center top;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.main_wrapper_text {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 600px;
+  background-color: rgba(53, 53, 53, 0.7);
+  border-radius: 10px;
+}
+.main_wrapper_text_stanza {
+  display: flex;
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: clamp(0.875rem, 0.83rem + 0.23vw, 1rem);
+  color: #ffffff;
+  margin: 20px 0px 20px 0px;
+  line-height: 1.3;
+}
+.main_wrapper_text_stanza span {
+  width: 160px;
+}
+.main_wrapper_text_string {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: clamp(0.875rem, 0.83rem + 0.23vw, 1rem);
+  color: #ffffff;
+  margin: 30px 30px;
+  line-height: 1.3;
+}
+.main_wrapper_text_string P {
+  margin: 20px 0px;
+}
+.main_wrapper_text .notes {
+  display: flex;
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: clamp(0.75rem, 0.705rem + 0.23vw, 0.875rem);
+  color: #ffffff;
+  margin: 30px 20px 20px 20px;
+}
+
+.poem_title {
+  color: #1aa090;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: clamp(1.25rem, 1.023rem + 1.14vw, 1.875rem);
+}
+.poem_title_sub {
+  font-size: 18px;
+  margin: 30px 0px 0px 0px;
+}
+
+.subtitle {
+  text-align: center;
+  margin: 30px 0px 30px 0px;
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/*----End Main----*/
+
+/*----Scroll To Top----*/
+#scrollToTopBtn {
+  display: none;
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+  background-color: #444444;
+  color: #ffffff;
+  border: none;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  padding: 10px 15px;
+  cursor: pointer;
+  box-shadow: 0px 0px 15px 0px rgba(255, 255, 255, 0.7);
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+#scrollToTopBtn:hover {
+  transform: scale(1.2);
+  color: #1aa090;
+}
+
+.fa-arrow-up {
+  font-size: 30px;
+}
+
+.visually-hidden {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  margin: -1px !important;
+  border: 0 !important;
+  padding: 0 !important;
+  white-space: nowrap !important;
+  -webkit-clip-path: inset(100%) !important;
+          clip-path: inset(100%) !important;
+  clip: rect(0 0 0 0) !important;
+  overflow: hidden !important;
+}
+
+/*----End Scroll To Top----*/
+/*----Media Queries----*/
+@media screen and (max-width: 600px) {
+  .main_wrapper_text {
+    width: 100%;
+  }
+  .main_wrapper_text_stanza, .main_wrapper_text_string {
+    margin: 15px 20px;
+  }
+  .main_wrapper_text_stanza span, .main_wrapper_text_string span {
+    width: 130px;
+  }
+  .notes p {
+    margin: 15px;
+  }
+}
+@media screen and (max-width: 935px) {
+  .header_desktop_menu {
+    margin-right: 0;
+  }
+}
+@media screen and (max-width: 885px) {
+  .header_desktop_menu_nav span {
+    font-size: 14px;
+  }
+  .header_desktop_menu_nav_submenu a {
+    font-size: 14px;
+    line-height: 1.7;
+  }
+}
+@media screen and (max-width: 771px) {
+  .header_desktop_menu {
+    display: none;
+  }
+  .header_mobile_menu {
+    display: block;
+  }
 }

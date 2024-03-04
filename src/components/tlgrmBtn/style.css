@@ -1,0 +1,14 @@
+/*---------TlgrmBtn---------*/
+.footer_telegram {
+    width: 30px;
+    height: 30px;
+    margin: 15px 0 25px 0;
+}
+.footer_telegram img {
+    background-color: transparent;
+    border-radius: 1px solid #ffffff;
+    cursor: pointer;
+    height: 40px;
+}
+
+/*---------End TlgrmBtn---------*/
