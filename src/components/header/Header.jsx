@@ -1,13 +1,14 @@
+import { NavLink } from "react-router-dom";
 import "./style.css";
 import logo from "./../../img/J-logo.png";
 const Header = () => {
 	return (
 		<header className="header">
 			<div className="header_logo">
-				<a href="./index.html">
-					<img src={logo} alt="logo" />
-				</a>
-			</div>
+				<NavLink to="/">
+                    <img src={logo} alt="logo" />
+                </NavLink>
+            </div>
 			<div className="header_desktop_menu">
 				<ul className="header_desktop_menu_nav">
 					<li>
