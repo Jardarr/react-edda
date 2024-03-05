@@ -1,4 +1,4 @@
-import { poetry } from "./Poetry.utils";
+import { poetry } from "./index.utils";
 const Poetry = () => {
 	return (
 		<main className="main_wrapper" style={{ height: "100dvh" }}>
