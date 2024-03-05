@@ -1,7 +1,7 @@
 import { NavLink } from "react-router-dom";
 import TlgrmBtn from "../tlgrmBtn/TlgrmBtn";
 import "./style.css";
-const Footer = () => {
+const FooterComponent = () => {
     return ( 
         <footer className="footer">
         <span className="footer_copyright">&copy; 2024 Designed by Jardarr</span>
@@ -11,4 +11,4 @@ const Footer = () => {
      );
 }
  
-export default Footer;
+export const Footer = FooterComponent;

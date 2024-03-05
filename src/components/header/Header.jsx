@@ -1,7 +1,7 @@
 import { NavLink } from "react-router-dom";
 import "./style.css";
 import logo from "./../../img/J-logo.png";
-const Header = () => {
+const HeaderComponent = () => {
 	return (
 		<header className="header">
 			<div className="header_logo">
@@ -870,4 +870,4 @@ const Header = () => {
 	);
 };
 
-export default Header;
+export const Header = HeaderComponent;

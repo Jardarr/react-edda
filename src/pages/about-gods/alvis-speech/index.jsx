@@ -1,4 +1,5 @@
-import { alvisspeech } from "./AlvisSpeech.utils";
+import React from "react";
+import { alvisspeech } from "./index.utils";
 const AlvisSpeech = () => {
     return ( 
         <main class="main_wrapper">
