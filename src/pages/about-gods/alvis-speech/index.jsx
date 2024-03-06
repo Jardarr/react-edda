@@ -4,12 +4,12 @@ const AlvisSpeech = () => {
     return ( 
         <main class="main_wrapper">
       <div class="main_wrapper_text">
-        <div class="main_wrapper_text_string">
-          <h1 class="poem_title">Alvíssmál</h1>
-          <h2 class="poem_title poem_title_sub">Речи Альвиса</h2>
-        </div>
         {alvisspeech.map((item) => (
           <>
+            <div class={item.classString}>
+              <h1 class={item.classTitle}>{item.titleContent}</h1>
+              <h2 class={item.classSubTitle}>{item.subTitleContent}</h2>
+            </div>
             <div class={item.classStanza}>
               <div>{item.number}</div>
               <span>{item.contentON}</span>

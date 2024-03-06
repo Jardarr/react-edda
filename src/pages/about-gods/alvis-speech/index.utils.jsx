@@ -1,5 +1,12 @@
 const alvisspeech = [
     {
+        classString: 'main_wrapper_text_string',
+        classTitle: 'poem_title',
+        classSubTitle: 'poem_title poem_title_sub',
+        titleContent: 'Alvíssmál',
+        subTitleContent: 'Речи Альвиса',
+    },
+    {
         classStanza: 'main_wrapper_text_stanza',
         number: '1.',
 
