@@ -1,6 +1,5 @@
 import { NavLink } from "react-router-dom";
 import TlgrmBtn from "../tlgrmBtn/TlgrmBtn";
-import "./style.css";
 const FooterComponent = () => {
     return ( 
         <footer className="footer">

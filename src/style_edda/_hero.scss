@@ -1,0 +1,36 @@
+@import "_parameters.scss";
+@import "_mixins.scss";
+
+/*----Hero----*/
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: {
+        image: url('./img/Edda_bg_min.jpg');
+        size: cover;
+        repeat: no-repeat;
+        position: center;
+
+    }
+    height: 100vh;
+    &_text {
+        text-align: center;
+        color: color_text();
+        line-height: 60px;
+        font: {
+            family: font_Alex();
+            size: 30px;
+        }
+        h1 {
+            margin-bottom: 15px;
+            font-size: clamp(1.25rem, 1.023rem + 1.14vw, 1.875rem);
+        }
+    }
+    &_background {
+        width: 100%;
+        background-color: rgba(95, 95, 95, 0.5);
+        max-height: fit-content;
+    }
+}
+/*----End Hero----*/

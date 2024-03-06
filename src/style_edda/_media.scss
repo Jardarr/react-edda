@@ -1,0 +1,45 @@
+@import "_parameters.scss";
+@import "_mixins.scss";
+
+/*----Media Queries----*/
+@media screen and (max-width: 600px) {
+    .main_wrapper_text {
+        width: 100%;
+        &_stanza, &_string {
+            margin: 15px 20px;
+            span {
+                width: 130px;
+            }
+        }
+    }
+    .notes p {
+        margin: 15px;
+    } 
+}
+@media screen and (max-width: 935px) {
+    .header_desktop_menu {
+        margin-right: 0;
+    }
+}
+@media screen and (max-width: 885px) {
+    .header_desktop_menu_nav {
+        & span {
+            font-size: 14px;
+        }
+        &_submenu {
+            & a {
+                font-size: 14px;
+                line-height: 1.7;
+            }
+        }
+    }
+}
+@media screen and (max-width: 771px) {
+    .header_desktop_menu {
+        display: none;
+    }
+    .header_mobile_menu {
+        display: block;
+    }
+}
+/*----End Media Queries----*/

@@ -1,5 +1,4 @@
 import { NavLink } from "react-router-dom";
-import "./style.css";
 import logo from "./../../img/J-logo.png";
 const HeaderComponent = () => {
 	return (

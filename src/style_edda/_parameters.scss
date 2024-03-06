@@ -1,0 +1,19 @@
+//Fonts
+@function font_all() {
+    @return Arial, Helvetica, sans-serif;
+}
+@function font_Alex() {
+    @return Alex Brush, cursive;
+}
+
+//Colors
+@function color_text() {
+    @return #ffffff;
+}
+@function color_background() {
+    @return #000000;
+}
+@function color_backwater() {
+    @return #1aa090;
+}
+//hidden

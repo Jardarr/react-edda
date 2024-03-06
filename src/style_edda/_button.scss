@@ -1,0 +1,33 @@
+@import "_parameters.scss";
+
+/*----Scroll To Top----*/
+#scrollToTopBtn {
+    display: none;
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    background-color: #444444;
+    color: color_text();
+    border: none;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    padding: 10px 15px;
+    cursor: pointer;
+    -webkit-box-shadow: 0px 0px 15px 0px rgba(255, 255, 255, 0.7);
+    -moz-box-shadow: 0px 0px 15px 0px rgba(255, 255, 255, 0.7);
+    box-shadow: 0px 0px 15px 0px rgba(255, 255, 255, 0.7);
+    transition: color 0.3s ease, transform 0.3s ease;
+    &:hover {
+        transform: scale(1.2);
+        color: color_backwater();
+    }
+    
+}
+.fa-arrow-up {
+    font-size: 30px;
+}
+.visually-hidden {
+    @include visually-hidden;
+}
+/*----End Scroll To Top----*/

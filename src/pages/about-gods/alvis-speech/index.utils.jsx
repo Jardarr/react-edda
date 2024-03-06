@@ -1,12 +1,6 @@
 const alvisspeech = [
     {
-        classString: 'main_wrapper_text_string',
-        classTitle: 'poem_title',
-        classSubTitle: 'poem_title poem_title_sub',
-        titleContent: 'Alvíssmál',
-        subTitleContent: 'Речи Альвиса',
-    },
-    {
+        id: 1,
         classStanza: 'main_wrapper_text_stanza',
         number: '1.',
 
@@ -27,6 +21,7 @@ const alvisspeech = [
         вернуться пора нам!»</>
     },
     {
+        id: 2,
         classStanza: 'main_wrapper_text_stanza',
         number: '2.',
 
@@ -47,6 +42,7 @@ const alvisspeech = [
         в мужья не годишься!»</>
     },
     {
+        id: 3,
         classStanza: 'main_wrapper_text_stanza',
         number: '3.',
 
@@ -67,6 +63,7 @@ const alvisspeech = [
         надо слово держать!»</>
     },
     {
+        id: 4,
         classStanza: 'main_wrapper_text_stanza',
         number: '4.',
 
@@ -87,6 +84,7 @@ const alvisspeech = [
         и не дал согласья».</>
     },
     {
+        id: 5,
         classStanza: 'main_wrapper_text_stanza',
         number: '5.',
 
@@ -107,6 +105,7 @@ const alvisspeech = [
         Кто твой дурень-отец?»</>
     },
     {
+        id: 6,
         classStanza: 'main_wrapper_text_stanza',
         number: '6.',
 
@@ -127,6 +126,7 @@ const alvisspeech = [
         и в брак с нею вступишь».</>
     },
     {
+        id: 7,
         classStanza: 'main_wrapper_text_stanza',
         number: '7.',
 
@@ -147,6 +147,7 @@ const alvisspeech = [
         или жизнь не нужна мне».</>
     },
     {
+        id: 8,
         classStanza: 'main_wrapper_text_stanza',
         number: '8. ',
 
@@ -167,6 +168,7 @@ const alvisspeech = [
         поведать мне правду.</>
     },
     {
+        id: 9,
         classStanza: 'main_wrapper_text_stanza',
         number: '9.',
 
@@ -185,6 +187,7 @@ const alvisspeech = [
         в разных мирах».</>
     },
     {
+        id: 10,
         classStanza: 'main_wrapper_text_stanza',
         number: '10.',
 
@@ -205,6 +208,7 @@ const alvisspeech = [
         у богов она — Влажная».</>
     },
     {
+        id: 11,
         classStanza: 'main_wrapper_text_stanza',
         number: '11.',
 
@@ -225,6 +229,7 @@ const alvisspeech = [
         в разных мирах».</>
     },
     {
+        id: 12,
         classStanza: 'main_wrapper_text_stanza',
         number: '12.',
 
@@ -245,6 +250,7 @@ const alvisspeech = [
         Дом Влажный — у карликов».</>
     },
     {
+        id: 13,
         classStanza: 'main_wrapper_text_stanza',
         number: '13.',
 
@@ -265,6 +271,7 @@ const alvisspeech = [
         в разных мирах».</>
     },
     {
+        id: 14,
         classStanza: 'main_wrapper_text_stanza',
         number: '14.',
 
@@ -285,6 +292,7 @@ const alvisspeech = [
         у альвов — Счет Лет».</>
     },
     {
+        id: 15,
         classStanza: 'main_wrapper_text_stanza',
         number: '15.',
 
@@ -305,6 +313,7 @@ const alvisspeech = [
         в разных мирах».</>
     },
     {
+        id: 16,
         classStanza: 'main_wrapper_text_stanza',
         number: '16.',
 
@@ -325,6 +334,7 @@ const alvisspeech = [
         и асы — Пресветлым».</>
     },
     {
+        id: 17,
         classStanza: 'main_wrapper_text_stanza',
         number: '17.',
 
@@ -345,6 +355,7 @@ const alvisspeech = [
         в разных мирах».</>
     },
     {
+        id: 18,
         classStanza: 'main_wrapper_text_stanza',
         number: '18.',
 
@@ -365,6 +376,7 @@ const alvisspeech = [
         в Хель — Шлем-Невидимка».</>
     },
     {
+        id: 19,
         classStanza: 'main_wrapper_text_stanza',
         number: '19.',
 
@@ -385,6 +397,7 @@ const alvisspeech = [
         в разных мирах».</>
     },
     {
+        id: 20,
         classStanza: 'main_wrapper_text_stanza',
         number: '20.',
 
@@ -405,6 +418,7 @@ const alvisspeech = [
         а в Хель он Порывистый».</>
     },
     {
+        id: 21,
         classStanza: 'main_wrapper_text_stanza',
         number: '21.',
 
@@ -425,6 +439,7 @@ const alvisspeech = [
         в разных мирах».</>
     },
     {
+        id: 22,
         classStanza: 'main_wrapper_text_stanza',
         number: '22.',
 
@@ -445,6 +460,7 @@ const alvisspeech = [
         Покоем Дня — карлики».</>
     },
     {
+        id: 23,
         classStanza: 'main_wrapper_text_stanza',
         number: '23.',
 
@@ -465,6 +481,7 @@ const alvisspeech = [
         в разных мирах».</>
     },
     {
+        id: 24,
         classStanza: 'main_wrapper_text_stanza',
         number: '24.',
 
@@ -485,6 +502,7 @@ const alvisspeech = [
         а карлики — Глубью».</>
     },
     {
+        id: 25,
         classStanza: 'main_wrapper_text_stanza',
         number: '25.',
 
@@ -505,6 +523,7 @@ const alvisspeech = [
         в разных мирах».</>
     },
     {
+        id: 26,
         classStanza: 'main_wrapper_text_stanza',
         number: '26.',
 
@@ -525,6 +544,7 @@ const alvisspeech = [
         в Хель он Стремительный».</>
     },
     {
+        id: 27,
         classStanza: 'main_wrapper_text_stanza',
         number: '27.',
 
@@ -545,6 +565,7 @@ const alvisspeech = [
         в разных мирах».</>
     },
     {
+        id: 28,
         classStanza: 'main_wrapper_text_stanza',
         number: '28.',
 
@@ -565,6 +586,7 @@ const alvisspeech = [
         у ванов он Прутья».</>
     },
     {
+        id: 29,
         classStanza: 'main_wrapper_text_stanza',
         number: '29.',
 
@@ -585,6 +607,7 @@ const alvisspeech = [
         в разных мирах».</>
     },
     {
+        id: 30,
         classStanza: 'main_wrapper_text_stanza',
         number: '30.',
 
@@ -605,6 +628,7 @@ const alvisspeech = [
         Грёзы Ньёрун — у карликов».</>
     },
     {
+        id: 31,
         classStanza: 'main_wrapper_text_stanza',
         number: '31.',
 
@@ -625,6 +649,7 @@ const alvisspeech = [
         в разных мирах».</>
     },
     {
+        id: 32,
         classStanza: 'main_wrapper_text_stanza',
         number: '32.',
 
@@ -645,6 +670,7 @@ const alvisspeech = [
         а в Хель то — Поникшее».</>
     },
     {
+        id: 33,
         classStanza: 'main_wrapper_text_stanza',
         number: '33.',
 
@@ -665,6 +691,7 @@ const alvisspeech = [
         в разных мирах».</>
     },
     {
+        id: 34,
         classStanza: 'main_wrapper_text_stanza',
         number: '34.',
 
@@ -685,6 +712,7 @@ const alvisspeech = [
         Питьем — сыны Суттунга».</>
     },
     {
+        id: 35,
         classStanza: 'main_wrapper_text_stanza',
         number: '35.',
 
@@ -705,10 +733,6 @@ const alvisspeech = [
         тебя обманул я:<br />
         ты в доме застигнут<br />
         солнечным светом!»</>
-    },
-    {
-        classNotes: 'notes',
-        autors: <>Древнеисландский текст, ред. Guðni Jónsson<br />Текст на русском языке в переводе А. И. Корсуна</>
     }
 ]
 

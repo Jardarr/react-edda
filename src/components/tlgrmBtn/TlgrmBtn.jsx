@@ -1,4 +1,3 @@
-import "./style.css";
 import plane from "./../../img/paper-plane.svg";
 const TlgrmBtn = ({tlgrmLink}) => {
     return ( 
