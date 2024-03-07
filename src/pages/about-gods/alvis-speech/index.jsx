@@ -1,6 +1,9 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { alvisspeech } from "./index.utils";
 const AlvisSpeech = () => {
+  useEffect(() => {
+    document.title = "Jardarr | Alvíssmál";
+  }, []);
   return ( 
     <main class="main_wrapper">
       <div class="main_wrapper_text">
@@ -9,7 +12,7 @@ const AlvisSpeech = () => {
           <h2 class="poem_title poem_title_sub">Речи Альвиса</h2>
         </div>
         {alvisspeech.map((poem) => (
-          <div key={poem.id} class={poem.classStanza}>
+          <div key={poem.id} class={poem.class}>
             <div>{poem.number}</div>
             <span>{poem.contentON}</span>
             <div>{poem.number}</div>

@@ -1,7 +1,7 @@
 const alvisspeech = [
     {
         id: 1,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '1.',
 
         contentON: <>Alvíss kvað:<br />
@@ -22,7 +22,7 @@ const alvisspeech = [
     },
     {
         id: 2,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '2.',
 
         contentON: <>Þórr kvað:<br />
@@ -43,7 +43,7 @@ const alvisspeech = [
     },
     {
         id: 3,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '3.',
 
         contentON: <>Alvíss kvað:<br />
@@ -64,7 +64,7 @@ const alvisspeech = [
     },
     {
         id: 4,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '4.',
 
         contentON: <>Þórr kvað:<br />
@@ -85,7 +85,7 @@ const alvisspeech = [
     },
     {
         id: 5,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '5.',
 
         contentON: <>Alvíss kvað:<br />
@@ -106,7 +106,7 @@ const alvisspeech = [
     },
     {
         id: 6,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '6.',
 
         contentON: <>Þórr kvað:<br />
@@ -127,7 +127,7 @@ const alvisspeech = [
     },
     {
         id: 7,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '7.',
 
         contentON: <>Alvíss kvað:<br />
@@ -148,7 +148,7 @@ const alvisspeech = [
     },
     {
         id: 8,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '8. ',
 
         contentON: <>Þórr kvað:<br />
@@ -169,7 +169,7 @@ const alvisspeech = [
     },
     {
         id: 9,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '9.',
 
         contentON: <>«Segðu mér þat, Alvíss,<br />
@@ -188,7 +188,7 @@ const alvisspeech = [
     },
     {
         id: 10,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '10.',
 
         contentON: <>Alvíss kvað:<br />
@@ -209,7 +209,7 @@ const alvisspeech = [
     },
     {
         id: 11,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '11.',
 
         contentON: <>Þórr kvað:<br />
@@ -230,7 +230,7 @@ const alvisspeech = [
     },
     {
         id: 12,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '12.',
 
         contentON: <>Alvíss kvað:<br />
@@ -251,7 +251,7 @@ const alvisspeech = [
     },
     {
         id: 13,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '13.',
 
         contentON: <>Þórr kvað:<br />
@@ -272,7 +272,7 @@ const alvisspeech = [
     },
     {
         id: 14,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '14.',
 
         contentON: <>Alvíss kvað:<br />
@@ -293,7 +293,7 @@ const alvisspeech = [
     },
     {
         id: 15,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '15.',
 
         contentON: <>Þórr kvað:<br />
@@ -314,7 +314,7 @@ const alvisspeech = [
     },
     {
         id: 16,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '16.',
 
         contentON: <>Alvíss kvað:<br />
@@ -335,7 +335,7 @@ const alvisspeech = [
     },
     {
         id: 17,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '17.',
 
         contentON: <>Þórr kvað:<br />
@@ -356,7 +356,7 @@ const alvisspeech = [
     },
     {
         id: 18,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '18.',
 
         contentON: <>Alvíss kvað:<br />
@@ -377,7 +377,7 @@ const alvisspeech = [
     },
     {
         id: 19,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '19.',
 
         contentON: <>Þórr kvað:<br />
@@ -398,7 +398,7 @@ const alvisspeech = [
     },
     {
         id: 20,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '20.',
 
         contentON: <>Alvíss kvað:<br />
@@ -419,7 +419,7 @@ const alvisspeech = [
     },
     {
         id: 21,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '21.',
 
         contentON: <>Þórr kvað:<br />
@@ -440,7 +440,7 @@ const alvisspeech = [
     },
     {
         id: 22,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '22.',
 
         contentON: <>Alvíss kvað:<br />
@@ -461,7 +461,7 @@ const alvisspeech = [
     },
     {
         id: 23,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '23.',
 
         contentON: <>Þórr kvað:<br />
@@ -482,7 +482,7 @@ const alvisspeech = [
     },
     {
         id: 24,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '24.',
 
         contentON: <>Alvíss kvað:<br />
@@ -503,7 +503,7 @@ const alvisspeech = [
     },
     {
         id: 25,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '25.',
 
         contentON: <>Þórr kvað:<br />
@@ -524,7 +524,7 @@ const alvisspeech = [
     },
     {
         id: 26,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '26.',
 
         contentON: <>Alvíss kvað:<br />
@@ -545,7 +545,7 @@ const alvisspeech = [
     },
     {
         id: 27,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '27.',
 
         contentON: <>Þórr kvað:<br />
@@ -566,7 +566,7 @@ const alvisspeech = [
     },
     {
         id: 28,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '28.',
 
         contentON: <>Alvíss kvað:<br />
@@ -587,7 +587,7 @@ const alvisspeech = [
     },
     {
         id: 29,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '29.',
 
         contentON: <>Þórr kvað:<br />
@@ -608,7 +608,7 @@ const alvisspeech = [
     },
     {
         id: 30,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '30.',
 
         contentON: <>Alvíss kvað:<br />
@@ -629,7 +629,7 @@ const alvisspeech = [
     },
     {
         id: 31,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '31.',
 
         contentON: <>Þórr kvað:<br />
@@ -650,7 +650,7 @@ const alvisspeech = [
     },
     {
         id: 32,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '32.',
 
         contentON: <>Alvíss kvað:<br />
@@ -671,7 +671,7 @@ const alvisspeech = [
     },
     {
         id: 33,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '33.',
 
         contentON: <>Þórr kvað:<br />
@@ -692,7 +692,7 @@ const alvisspeech = [
     },
     {
         id: 34,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '34.',
 
         contentON: <>Alvíss kvað:<br />
@@ -713,7 +713,7 @@ const alvisspeech = [
     },
     {
         id: 35,
-        classStanza: 'main_wrapper_text_stanza',
+        class: 'main_wrapper_text_stanza',
         number: '35.',
 
         contentON: <>Þórr kvað:<br />

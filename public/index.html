@@ -2,16 +2,15 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAHdElNRQfoAQ4QBTM1/VvvAAACJElEQVRIx53UO28UVxTA8d/Mzuza47XXNibgdYKtCCTLChLCVFFSwCdAFHQJiDT5AFSUKAUSDd8AuYoSIaR8gKRKYUUCk4iXrYREQstbKGFf3vFmNwUNisdjD+d059zzP697b8AyidO+smxCYHcZavrVdTc0CZaZcdmXxvYQ+q50feeSp6X6qCu+HpSHCmocHLPfT5EzvhgEDZ2CBSTmhGetRi6o0tEqCAAjLoSOZ9lr/7OMWcie79Fw21lUfSZBbMqUEYEl44ZZgEqUBX6l66THllRFeja8sbFDF2G2eVXZaZ+qi1XE1vWKAToe+VeqYlNbM7v8PAB9NdTsV5LqFwc80jBrVuIfT3IqiHZydP3miL43OjYpDuBvDyR6Sjn5cwH79D1W1pe+DyBwyCd6XgpF7zPESEXFUKimnFPBjoCyUKptIDJeDPD2bk8a07ApUDVdZAaBZR/6yyFlr/XNqTjlMCJrft8dMGLBvDqeIvRaSWBRbMuLvQAmVbywaSjWc1DLQKSlJDaVsY9tgCkz2sakUtP6Yk1DZRNqAqOauwH+9LN5E8YlutpiH2mJPHPbuu7uLXTdsmbEx+ZUHVDW89AfnmUEvwUMt/9JAx133VN3Ttu3XhrkrLFpIts11HDNIPctSkN38vz5Txn3IytOSBJFJYHUSuR7n4fn5woDCPnBSqme+sUHwWIQBQrplpsuel6q0/KjhlkzSntMvuWuq77xnP8AtTCvYGmR500AAAAldEVYdGRhdGU6Y3JlYXRlADIwMjQtMDEtMTRUMTY6MDU6NTErMDA6MDDhHAJRAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDI0LTAxLTE0VDE2OjA1OjUxKzAwOjAwkEG67QAAAFd6VFh0UmF3IHByb2ZpbGUgdHlwZSBpcHRjAAB4nOPyDAhxVigoyk/LzEnlUgADIwsuYwsTIxNLkxQDEyBEgDTDZAMjs1Qgy9jUyMTMxBzEB8uASKBKLgDqFxF08kI1lQAAAABJRU5ErkJggg==" type="image/x-icon" />
+    <link rel="shortcut icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAHdElNRQfoAQ4QBTM1/VvvAAACJElEQVRIx53UO28UVxTA8d/Mzuza47XXNibgdYKtCCTLChLCVFFSwCdAFHQJiDT5AFSUKAUSDd8AuYoSIaR8gKRKYUUCk4iXrYREQstbKGFf3vFmNwUNisdjD+d059zzP697b8AyidO+smxCYHcZavrVdTc0CZaZcdmXxvYQ+q50feeSp6X6qCu+HpSHCmocHLPfT5EzvhgEDZ2CBSTmhGetRi6o0tEqCAAjLoSOZ9lr/7OMWcie79Fw21lUfSZBbMqUEYEl44ZZgEqUBX6l66THllRFeja8sbFDF2G2eVXZaZ+qi1XE1vWKAToe+VeqYlNbM7v8PAB9NdTsV5LqFwc80jBrVuIfT3IqiHZydP3miL43OjYpDuBvDyR6Sjn5cwH79D1W1pe+DyBwyCd6XgpF7zPESEXFUKimnFPBjoCyUKptIDJeDPD2bk8a07ApUDVdZAaBZR/6yyFlr/XNqTjlMCJrft8dMGLBvDqeIvRaSWBRbMuLvQAmVbywaSjWc1DLQKSlJDaVsY9tgCkz2sakUtP6Yk1DZRNqAqOauwH+9LN5E8YlutpiH2mJPHPbuu7uLXTdsmbEx+ZUHVDW89AfnmUEvwUMt/9JAx133VN3Ttu3XhrkrLFpIts11HDNIPctSkN38vz5Txn3IytOSBJFJYHUSuR7n4fn5woDCPnBSqme+sUHwWIQBQrplpsuel6q0/KjhlkzSntMvuWuq77xnP8AtTCvYGmR500AAAAldEVYdGRhdGU6Y3JlYXRlADIwMjQtMDEtMTRUMTY6MDU6NTErMDA6MDDhHAJRAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDI0LTAxLTE0VDE2OjA1OjUxKzAwOjAwkEG67QAAAFd6VFh0UmF3IHByb2ZpbGUgdHlwZSBpcHRjAAB4nOPyDAhxVigoyk/LzEnlUgADIwsuYwsTIxNLkxQDEyBEgDTDZAMjs1Qgy9jUyMTMxBzEB8uASKBKLgDqFxF08kI1lQAAAABJRU5ErkJggg==" type="image/x-icon" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#000000" />
     <meta
       name="description"
       content="Web site created using create-react-app"
     />
-    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
-    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-    <title>React App</title>
+    <title>Jardarr | Elder Edda</title>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
