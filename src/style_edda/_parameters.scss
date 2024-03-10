@@ -2,8 +2,9 @@
 @function font_all() {
     @return Arial, Helvetica, sans-serif;
 }
-@function font_Alex() {
-    @return Alex Brush, cursive;
+@font-face {
+    font-family: 'font-Alex';
+    src: url('./fonts/AlexBrush-Regular.ttf');
 }
 
 //Colors

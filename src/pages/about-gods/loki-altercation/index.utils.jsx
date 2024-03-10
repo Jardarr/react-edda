@@ -1,4 +1,4 @@
-const lokasenna = [
+const lokialtercation = [
     {
         id: 1,
         class:'main_wrapper_text_string',
@@ -1659,4 +1659,4 @@ const lokasenna = [
     },
 ];
 
-export {lokasenna};
+export {lokialtercation};

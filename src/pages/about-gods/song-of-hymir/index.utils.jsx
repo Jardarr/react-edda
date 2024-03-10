@@ -1,4 +1,4 @@
-const songofhumir = [
+const songofhymir = [
     {
         id: 1,
         class:'main_wrapper_text_string',
@@ -911,4 +911,4 @@ const songofhumir = [
     },
 ];
 
-export {songofhumir};
+export {songofhymir};

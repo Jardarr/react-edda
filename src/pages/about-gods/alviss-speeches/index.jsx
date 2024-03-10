@@ -1,25 +1,25 @@
 import React, { useEffect } from "react";
-import { alvisspeech } from "./index.utils";
-const AlvisSpeech = () => {
+import { alvissspeeches } from "./index.utils";
+const AlvissSpeeches = () => {
   useEffect(() => {
     document.title = "Jardarr | Alvíssmál";
   }, []);
   return ( 
-    <main class="main_wrapper">
-      <div class="main_wrapper_text">
-        <div class="main_wrapper_text_string">
-          <h1 class="poem_title">Alvíssmál</h1>
-          <h2 class="poem_title poem_title_sub">Речи Альвиса</h2>
+    <main className="main_wrapper">
+      <div className="main_wrapper_text">
+        <div className="main_wrapper_text_string">
+          <h1 className="poem_title">Alvíssmál</h1>
+          <h2 className="poem_title poem_title_sub">Речи Альвиса</h2>
         </div>
-        {alvisspeech.map((poem) => (
-          <div key={poem.id} class={poem.class}>
+        {alvissspeeches.map((poem) => (
+          <div key={poem.id} className={poem.class}>
             <div>{poem.number}</div>
             <span>{poem.contentON}</span>
             <div>{poem.number}</div>
             <span>{poem.contentRU}</span>
           </div>
         ))}
-        <div class="notes">
+        <div className="notes">
           <span>
             <p>Древнеисландский текст, ред. Guðni Jónsson</p>
             <p>Текст на русском языке в переводе А. И. Корсуна</p>
@@ -30,4 +30,4 @@ const AlvisSpeech = () => {
   );
 }
  
-export default AlvisSpeech;
+export default AlvissSpeeches;

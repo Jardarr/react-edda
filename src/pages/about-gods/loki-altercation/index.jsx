@@ -1,18 +1,17 @@
-import React, { useEffect } from "react";
-import { grimnirspeech } from "./index.utils";
-const GrimnirSpeech = () => {
+import React, {useEffect} from 'react';
+import { lokialtercation } from './index.utils';
+const LokiAltercation = () => {
     useEffect(() => {
-        document.title = "Jardarr | Grímnismál";
+        document.title = "Jardarr | Lokasenna";
     }, []);
     return ( 
         <main className="main_wrapper">
         <div className="main_wrapper_text">
             <div className="main_wrapper_text_string">
-            <h1 className="poem_title">Grímnismál</h1>
-            <h2 className="poem_title poem_title_sub">Речи Гримнира</h2>
+            <h1 className="poem_title">Lokasenna</h1>
+            <h2 className="poem_title poem_title_sub">Перебранка Локи</h2>
             </div>
-            <div className="subtitle"><span>Frá sonum Hrauðungs konungs.</span></div>
-            {grimnirspeech.map((poem, id) => {
+            {lokialtercation.map((poem, id) => {
                 return (
                     <div key={id} className={poem.class}>
                         <div>{poem.number}</div>
@@ -33,4 +32,4 @@ const GrimnirSpeech = () => {
      );
 }
  
-export default GrimnirSpeech;
+export default LokiAltercation;

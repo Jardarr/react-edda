@@ -1,4 +1,4 @@
-const havamal = [
+const highsspeeches = [
     {
         id: 1,
         number: '1.',
@@ -3320,4 +3320,4 @@ const havamal = [
     },
 ];
 
-export {havamal};
+export {highsspeeches};

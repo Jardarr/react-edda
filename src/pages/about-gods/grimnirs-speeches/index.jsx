@@ -1,17 +1,18 @@
-import React, {useEffect} from 'react';
-import { songofhumir } from './index.utils';
-const SongOfHumir = () => {
+import React, { useEffect } from "react";
+import { grimnirsspeeches } from "./index.utils";
+const GrimnirsSpeeches = () => {
     useEffect(() => {
-        document.title = "Jardarr | Hymiskviða";
+        document.title = "Jardarr | Grímnismál";
     }, []);
     return ( 
-        <main class="main_wrapper">
-        <div class="main_wrapper_text">
-            <div class="main_wrapper_text_string">
-            <h1 class="poem_title">Hymiskviða</h1>
-            <h2 class="poem_title poem_title_sub">Песнь о Хюмире</h2>
+        <main className="main_wrapper">
+        <div className="main_wrapper_text">
+            <div className="main_wrapper_text_string">
+            <h1 className="poem_title">Grímnismál</h1>
+            <h2 className="poem_title poem_title_sub">Речи Гримнира</h2>
             </div>
-            {songofhumir.map((poem, id) => {
+            <div className="subtitle"><span>Frá sonum Hrauðungs konungs.</span></div>
+            {grimnirsspeeches.map((poem, id) => {
                 return (
                     <div key={id} className={poem.class}>
                         <div>{poem.number}</div>
@@ -21,7 +22,7 @@ const SongOfHumir = () => {
                     </div>
                 );
             })}
-            <div class="notes">
+            <div className="notes">
             <span>
                 <p>Древнеисландский текст, ред. Guðni Jónsson</p>
                 <p>Текст на русском языке в переводе А. И. Корсуна</p>
@@ -32,4 +33,4 @@ const SongOfHumir = () => {
      );
 }
  
-export default SongOfHumir;
+export default GrimnirsSpeeches;

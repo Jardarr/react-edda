@@ -1,4 +1,4 @@
-const grimnirspeech = [
+const grimnirsspeeches = [
     {
         id: 1,
         class: 'main_wrapper_text_string',
@@ -1224,4 +1224,4 @@ const grimnirspeech = [
     },
 ]
 
-export {grimnirspeech};
+export {grimnirsspeeches};

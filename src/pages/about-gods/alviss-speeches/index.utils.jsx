@@ -1,4 +1,4 @@
-const alvisspeech = [
+const alvissspeeches = [
     {
         id: 1,
         class: 'main_wrapper_text_stanza',
@@ -736,4 +736,4 @@ const alvisspeech = [
     }
 ]
 
-export {alvisspeech}
+export {alvissspeeches}

@@ -1,17 +1,17 @@
 import React, {useEffect} from 'react';
-import { havamal } from './index.utils';
-const Havamal = () => {
+import { songofhymir } from './index.utils';
+const SongOfHymir = () => {
     useEffect(() => {
-        document.title = "Jardarr | Hávamál";
+        document.title = "Jardarr | Hymiskviða";
     }, []);
     return ( 
-        <main class="main_wrapper">
-        <div class="main_wrapper_text">
-            <div class="main_wrapper_text_string">
-            <h1 class="poem_title">Hávamál</h1>
-            <h2 class="poem_title poem_title_sub">Речи Высокого</h2>
+        <main className="main_wrapper">
+        <div className="main_wrapper_text">
+            <div className="main_wrapper_text_string">
+            <h1 className="poem_title">Hymiskviða</h1>
+            <h2 className="poem_title poem_title_sub">Песнь о Хюмире</h2>
             </div>
-            {havamal.map((poem, id) => {
+            {songofhymir.map((poem, id) => {
                 return (
                     <div key={id} className={poem.class}>
                         <div>{poem.number}</div>
@@ -21,7 +21,7 @@ const Havamal = () => {
                     </div>
                 );
             })}
-            <div class="notes">
+            <div className="notes">
             <span>
                 <p>Древнеисландский текст, ред. Guðni Jónsson</p>
                 <p>Текст на русском языке в переводе А. И. Корсуна</p>
@@ -32,4 +32,4 @@ const Havamal = () => {
      );
 }
  
-export default Havamal;
+export default SongOfHymir;
