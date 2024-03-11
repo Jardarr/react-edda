@@ -72,12 +72,16 @@ textarea:not([rows]) {
   scroll-margin-block: 5ex;
 }
 
+/*---------Fonts---------*/
 @font-face {
-  font-family: "font-Alex";
-  src: url("./fonts/AlexBrush-Regular.ttf");
+  font-family: "Ephesis";
+  src: url("/public/fonts/Ephesis-Regular.woff2");
 }
+/*---------End Fonts---------*/
 /*----Header----*/
 .header {
+  position: sticky;
+  top: 0;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -111,9 +115,11 @@ textarea:not([rows]) {
   transition: color 0.3s ease;
 }
 .header_desktop_menu_item span {
-  margin-right: 10px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
+}
+.header_desktop_menu_item span svg {
+  margin-left: 10px;
 }
 .header_desktop_menu_item:hover {
   color: #1aa090;
@@ -139,10 +145,12 @@ textarea:not([rows]) {
 }
 
 /*----End Header----*/
+/*---------Fonts---------*/
 @font-face {
-  font-family: "font-Alex";
-  src: url("./fonts/AlexBrush-Regular.ttf");
+  font-family: "Ephesis";
+  src: url("/public/fonts/Ephesis-Regular.woff2");
 }
+/*---------End Fonts---------*/
 /*----Hero----*/
 .hero {
   display: flex;
@@ -158,7 +166,7 @@ textarea:not([rows]) {
   text-align: center;
   color: #ffffff;
   line-height: 60px;
-  font-family: "font-Alex";
+  font-family: "Ephesis", sans-serif;
   font-size: 30px;
 }
 .hero_text h1 {
@@ -173,10 +181,12 @@ textarea:not([rows]) {
 }
 
 /*----End Hero----*/
+/*---------Fonts---------*/
 @font-face {
-  font-family: "font-Alex";
-  src: url("./fonts/AlexBrush-Regular.ttf");
+  font-family: "Ephesis";
+  src: url("/public/fonts/Ephesis-Regular.woff2");
 }
+/*---------End Fonts---------*/
 /*----Main----*/
 .main_wrapper {
   display: flex;
@@ -245,10 +255,12 @@ textarea:not([rows]) {
 }
 
 /*----End Main----*/
+/*---------Fonts---------*/
 @font-face {
-  font-family: "font-Alex";
-  src: url("./fonts/AlexBrush-Regular.ttf");
+  font-family: "Ephesis";
+  src: url("/public/fonts/Ephesis-Regular.woff2");
 }
+/*---------End Fonts---------*/
 /*----Footer----*/
 .footer {
   display: flex;
@@ -281,10 +293,6 @@ textarea:not([rows]) {
 }
 
 /*----End Footer----*/
-@font-face {
-  font-family: "font-Alex";
-  src: url("./fonts/AlexBrush-Regular.ttf");
-}
 /*----Scroll To Top----*/
 #scrollToTopBtn {
   display: none;
@@ -326,10 +334,12 @@ textarea:not([rows]) {
 }
 
 /*----End Scroll To Top----*/
+/*---------Fonts---------*/
 @font-face {
-  font-family: "font-Alex";
-  src: url("./fonts/AlexBrush-Regular.ttf");
+  font-family: "Ephesis";
+  src: url("/public/fonts/Ephesis-Regular.woff2");
 }
+/*---------End Fonts---------*/
 /*----Media Queries----*/
 @media screen and (max-width: 600px) {
   .main_wrapper_text {
@@ -367,10 +377,4 @@ textarea:not([rows]) {
     display: block;
   }
 }
-/*----End Media Queries----*/
-@font-face {
-  font-family: "font-Alex";
-  src: url "./fonts/AlexBrush-Regular.ttf" format("truetype");
-  font-weight: normal;
-  font-style: normal;
-}/*# sourceMappingURL=index.css.map */
+/*----End Media Queries----*//*# sourceMappingURL=index.css.map */

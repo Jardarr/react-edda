@@ -1,6 +1,10 @@
-@font-face {
-    font-family: 'font-Alex';
-    src: url ('./fonts/AlexBrush-Regular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
+/*---------Fonts---------*/
+@function font-all() {
+    @return Arial, Helvetica, sans-serif;
 }
+
+@font-face {
+    font-family: 'Ephesis';
+    src: url('/public/fonts/Ephesis-Regular.woff2');
+}
+/*---------End Fonts---------*/

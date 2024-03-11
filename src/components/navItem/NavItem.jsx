@@ -25,9 +25,10 @@ const NavItem = ({ text = '', children }) => {
     return (
         <div className="header_desktop_menu_items" ref={menuRef}>
             <div className="header_desktop_menu_item">
-                <span onClick={() => setOpen(text !== open ? text : '')}>{text}</span>
+                <span onClick={() => setOpen(text !== open ? text : '')}>{text}
                 {children && open === text && arrowDown}
                 {children && open !== text && arrowUp}
+                </span>
             </div>
             {open && children}
         </div>

@@ -1,8 +1,11 @@
-@import "_parameters.scss";
+@import "_colors.scss";
+@import "_fonts.scss";
 @import "_mixins.scss";
 
 /*----Header----*/
 .header {
+    position: sticky;
+    top: 0;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -33,10 +36,12 @@
             cursor: pointer;
             transition: color 0.3s ease;
             & span {
-                margin-right: 10px;
                 font: {
                     family: font_all();
                     size: 18px;
+                }
+                & svg {
+                    margin-left: 10px;
                 }
             }
             &:hover {
