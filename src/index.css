@@ -179,7 +179,7 @@ textarea:not([rows]) {
   z-index: -1;
 }
 .header_mobile_menu_item {
-  margin: 80px 0px 0px 20px;
+  margin: 100px 0px 0px 20px;
   line-height: 1.8;
 }
 .header_mobile_menu_item span {
