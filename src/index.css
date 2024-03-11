@@ -93,6 +93,7 @@ textarea:not([rows]) {
   display: flex;
   align-items: center;
   margin-bottom: 10px;
+  z-index: -2;
 }
 .header_logo img {
   height: 100px;
@@ -129,7 +130,7 @@ textarea:not([rows]) {
   display: flex;
   flex-direction: column;
   background-color: #000000;
-  padding: 20px 15px;
+  padding: 20px 15px 20px 0px;
   line-height: 1.2;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
@@ -142,6 +143,49 @@ textarea:not([rows]) {
 }
 .header_desktop_menu_list a:hover {
   color: #1aa090;
+}
+.header_mobile_menu {
+  display: none;
+  position: relative;
+}
+.header_mobile_menu_hamburger {
+  cursor: pointer;
+  margin-right: 40px;
+  z-index: 2;
+}
+.header_mobile_menu_hamburger .fa-bars {
+  font-size: 30px;
+  color: #ffffff;
+}
+.header_mobile_menu_hamburger .fa-xmark {
+  font-size: 30px;
+  color: #ffffff;
+}
+.header_mobile_menu_background-g {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+  height: 100dvh;
+  z-index: -1;
+}
+.header_mobile_menu_background-b {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 50%;
+  background-color: rgb(0, 0, 0);
+  height: 100dvh;
+  z-index: -1;
+}
+.header_mobile_menu_item {
+  margin: 80px 0px 0px 20px;
+  line-height: 1.8;
+}
+.header_mobile_menu_item span {
+  line-height: 1.8;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
 }
 
 /*----End Header----*/
@@ -156,11 +200,11 @@ textarea:not([rows]) {
   display: flex;
   align-items: center;
   justify-content: center;
+  height: 100vh;
   background-image: url("./img/Edda_bg_min.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  height: 100vh;
 }
 .hero_text {
   text-align: center;
@@ -190,6 +234,7 @@ textarea:not([rows]) {
 /*----Main----*/
 .main_wrapper {
   display: flex;
+  min-height: 100dvh;
   justify-content: center;
   background-image: url("./img/thursarn.jpg");
   background-attachment: fixed;
@@ -360,21 +405,21 @@ textarea:not([rows]) {
     margin-right: 0;
   }
 }
-@media screen and (max-width: 885px) {
-  .header_desktop_menu_nav span {
-    font-size: 14px;
-  }
-  .header_desktop_menu_nav_submenu a {
-    font-size: 14px;
-    line-height: 1.7;
-  }
-}
-@media screen and (max-width: 771px) {
+@media screen and (max-width: 780px) {
   .header_desktop_menu {
     display: none;
   }
+  .header_desktop_menu_list a {
+    font-size: 14px;
+  }
   .header_mobile_menu {
     display: block;
+  }
+}
+@media screen and (min-width: 780px) {
+  .header_mobile_menu_background-g,
+  .header_mobile_menu_background-b {
+    display: none !important;
   }
 }
 /*----End Media Queries----*//*# sourceMappingURL=index.css.map */

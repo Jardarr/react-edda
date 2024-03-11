@@ -22,25 +22,21 @@
         margin-right: 0;
     }
 }
-@media screen and (max-width: 885px) {
-    .header_desktop_menu_nav {
-        & span {
-            font-size: 14px;
-        }
-        &_submenu {
-            & a {
-                font-size: 14px;
-                line-height: 1.7;
-            }
-        }
-    }
-}
-@media screen and (max-width: 771px) {
+@media screen and (max-width: 780px) {
     .header_desktop_menu {
         display: none;
+        &_list a {
+            font-size: 14px;
+        }
     }
     .header_mobile_menu {
         display: block;
+    }
+}
+@media screen and (min-width: 780px) {
+    .header_mobile_menu_background-g, 
+    .header_mobile_menu_background-b {
+        display: none !important;
     }
 }
 /*----End Media Queries----*/

@@ -7,14 +7,14 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    height: 100vh;
     background: {
         image: url('./img/Edda_bg_min.jpg');
         size: cover;
         repeat: no-repeat;
         position: center;
-
     }
-    height: 100vh;
+    
     &_text {
         text-align: center;
         color: color_text();

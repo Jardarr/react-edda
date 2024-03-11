@@ -1,7 +1,7 @@
 import { poetry } from "./index.utils";
 const Poetry = () => {
 	return (
-		<main className="main_wrapper" style={{ height: "100dvh" }}>
+		<main className="main_wrapper">
 			<div className="main_wrapper_text">
 				<div className="main_wrapper_text_string">
 					<span>
