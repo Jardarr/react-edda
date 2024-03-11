@@ -32,6 +32,9 @@
     .header_mobile_menu {
         display: block;
     }
+    .header_desktop_menu_list {
+        padding: 10px 15px 20px 0;
+    }
 }
 @media screen and (min-width: 780px) {
     .header_mobile_menu_background-g, 

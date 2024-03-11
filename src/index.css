@@ -130,7 +130,7 @@ textarea:not([rows]) {
   display: flex;
   flex-direction: column;
   background-color: #000000;
-  padding: 20px 15px 20px 0px;
+  padding: 20px 15px;
   line-height: 1.2;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
@@ -379,6 +379,25 @@ textarea:not([rows]) {
 }
 
 /*----End Scroll To Top----*/
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #1aa090 #000000;
+}
+
+*::-webkit-scrollbar {
+  width: 10px;
+}
+
+*::-webkit-scrollbar-track {
+  background: #000000;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #1aa090;
+  border-radius: 10px;
+  border: 3px solid #000000;
+}
+
 /*---------Fonts---------*/
 @font-face {
   font-family: "Ephesis";
@@ -414,6 +433,9 @@ textarea:not([rows]) {
   }
   .header_mobile_menu {
     display: block;
+  }
+  .header_desktop_menu_list {
+    padding: 10px 15px 20px 0;
   }
 }
 @media screen and (min-width: 780px) {
