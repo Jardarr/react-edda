@@ -23,6 +23,12 @@
     }
 }
 @media screen and (max-width: 780px) {
+    .header {
+        height: 80px;
+        & img {
+            height: 80px;
+        }
+    }
     .header_desktop_menu {
         display: none;
         &_list a {
