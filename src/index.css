@@ -449,7 +449,7 @@ textarea:not([rows]) {
     margin-right: 0;
   }
 }
-@media screen and (max-width: 780px) {
+@media screen and (max-width: 785px) {
   .header {
     height: 80px;
   }
@@ -468,6 +468,9 @@ textarea:not([rows]) {
   .header_desktop_menu_list {
     padding: 10px 15px 20px 0;
   }
+  .poem_title {
+    margin-top: 30px;
+  }
 }
 @media screen and (min-width: 780px) {
   .header_mobile_menu_background-g,
@@ -475,4 +478,30 @@ textarea:not([rows]) {
     display: none !important;
   }
 }
-/*----End Media Queries----*//*# sourceMappingURL=index.css.map */
+/*----End Media Queries----*/
+/*---------Not Found---------*/
+.not-found {
+  display: flex;
+  min-height: 100dvh;
+  background-image: url("./img/not_found.jpg");
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.not-found_text {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.not-found h1 {
+  color: #1aa090;
+  font-size: clamp(6.25rem, 2.083rem + 20.83vw, 12.5rem);
+}
+.not-found h2 {
+  color: #1aa090;
+  font-size: clamp(2.5rem, 12.5vw, 6.25rem);
+}
+
+/*---------End Not Found---------*//*# sourceMappingURL=index.css.map */

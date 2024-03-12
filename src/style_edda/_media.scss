@@ -22,7 +22,7 @@
         margin-right: 0;
     }
 }
-@media screen and (max-width: 780px) {
+@media screen and (max-width: 785px) {
     .header {
         height: 80px;
         & img {
@@ -40,6 +40,9 @@
     }
     .header_desktop_menu_list {
         padding: 10px 15px 20px 0;
+    }
+    .poem_title {
+        margin-top: 30px;
     }
 }
 @media screen and (min-width: 780px) {

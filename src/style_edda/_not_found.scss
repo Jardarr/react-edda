@@ -1,0 +1,33 @@
+@import './_colors.scss';
+
+/*---------Not Found---------*/
+.not-found {
+    display: flex;
+    min-height: 100dvh;
+    background: {
+        image: url('./img/not_found.jpg');
+        attachment: fixed;
+        position: center center;
+        size: cover;
+        repeat: no-repeat;
+    }
+    &_text {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+    & h1 {
+        color: color-backwater();
+        font: {
+            size: clamp(6.25rem, 2.083rem + 20.83vw, 12.5rem);
+        }
+    }
+    & h2 {
+        color: color-backwater();
+        font: {
+            size: clamp(2.5rem, 12.5vw, 6.25rem);
+        }
+    }
+}
+/*---------End Not Found---------*/

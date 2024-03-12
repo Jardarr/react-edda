@@ -330,1332 +330,1111 @@ const lokialtercation = [
         number: '15.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Loki kvað:<br />
+        «Snjallr ertu í sessi,<br />
+        skal-at-tu svá gera,<br />
+        Bragi bekkskrautuðr;<br />
+        vega þú gakk,<br />
+        ef þú vreiðr séir;<br />
+        hyggsk vætr hvatr fyrir.»</>,
 
-        contentRU: <></>
+        contentRU: <>Локи сказал:<br />
+        «Сидя ты храбр —<br />
+        украшенье скамьи, —<br />
+        но в битве беспомощен!<br />
+        Смелость свою<br />
+        покажи в сраженье!<br />
+        Кто смел, тот не медлит».</>
     },
     {
         id: 19,
-        number: '18.',
+        number: '16.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Iðunn kvað:<br />
+        «Bið ek þik, Bragi,<br />
+        barna sifjar duga<br />
+        ok allra óskmaga,<br />
+        at þú Loka<br />
+        kveðir-a lastastöfum<br />
+        Ægis höllu í.»</>,
 
-        contentRU: <></>
+        contentRU: <>Идун сказала:<br />
+        «Браги, не надо<br />
+        У Эгира в доме<br />
+        ссориться с Локи;<br />
+        уместны ли распри<br />
+        среди сыновей<br />
+        родных и приемных!»</>
     },
     {
         id: 20,
-        number: '19.',
+        number: '17.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Loki kvað:<br />
+        «Þegi þú, Iðunn,<br />
+        þik kveð ek allra kvenna<br />
+        vergjarnasta vera,<br />
+        síztu arma þína<br />
+        lagðir ítrþvegna<br />
+        um þinn bróðurbana.»</>,
 
-        contentRU: <></>
+        contentRU: <>Локи сказал:<br />
+        «Ты, Идун, молчи!<br />
+        До мужчин ты всех боле<br />
+        из женщин жадна,<br />
+        ведь руки твои<br />
+        того обнимали,<br />
+        кем брат твой убит».</>
     },
     {
         id: 21,
-        number: '20.',
+        number: '18.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Iðunn kvað:<br />
+        «Loka ek kveðk-a<br />
+        lastastöfum<br />
+        Ægis höllu í:<br />
+        Braga ek kyrri<br />
+        bjórreifan;<br />
+        vilk-at ek, at it vreiðir vegizk.»</>,
 
-        contentRU: <></>
+        contentRU: <>Идун сказала:<br />
+        «Локи я словом<br />
+        не оскорбляла<br />
+        у Эгира в доме:<br />
+        я Браги смирить<br />
+        хмельного старалась<br />
+        и распрю пресечь».</>
     },
     {
         id: 22,
-        number: '21.',
+        number: '19.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Gefjun kvað:<br />
+        «Hví it æsir tveir<br />
+        skuluð inni hér<br />
+        sáryrðum sakask?<br />
+        Loftki þat veit,<br />
+        at hann leikinn er<br />
+        ok hann fjörg öll fía.»</>,
 
-        contentRU: <></>
+        contentRU: <>Гевьон сказала:<br />
+        «Зря вы, два аса,<br />
+        друг друга язвите<br />
+        речами бранчливыми:<br />
+        ведает Лофт,<br />
+        что слывет шутником<br />
+        и любимцем богов».</>
     },
     {
         id: 23,
-        number: '22.',
+        number: '20.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Loki kvað:<br />
+        «Þegi þú, Gefjun,<br />
+        þess mun ek nú geta,<br />
+        er þik glapði at geði<br />
+        sveinn inn hvíti,<br />
+        er þér sigli gaf<br />
+        ok þú lagðir lær yfir.»</>,
 
-        contentRU: <></>
+        contentRU: <>Локи сказал:<br />
+        «Ты, Гевьон, молчи!<br />
+        О юнце я напомню,<br />
+        тебя совратившем:<br />
+        дарил он уборы<br />
+        в обмен на твои<br />
+        любовные ласки».</>
     },
     {
         id: 24,
-        number: '23.',
+        number: '21.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Óðinn kvað:<br />
+        «Ærr ertu, Loki,<br />
+        ok örviti,<br />
+        er þú fær þér Gefjun at gremi,<br />
+        því at aldar örlög<br />
+        hygg ek, at hon öll of viti<br />
+        jafngörla sem ek.»</>,
 
-        contentRU: <></>
+        contentRU: <>Один сказал:<br />
+        «Безумен ты, Локи,<br />
+        что дерзостно вздумал<br />
+        Гевьон гневить:<br />
+        ведь ей, как и мне,<br />
+        открыты и ясны<br />
+        судьбы всех сущих».</>
     },
     {
         id: 25,
-        number: '24.',
+        number: '22.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Loki kvað:<br />
+        «Þegi þú, Óðinn,<br />
+        þú kunnir aldregi<br />
+        deila víg með verum;<br />
+        oft þú gaft,<br />
+        þeim er þú gefa skyldir-a,<br />
+        inum slævurum sigr.»</>,
 
-        contentRU: <></>
+        contentRU: <>Локи сказал:<br />
+        «Ты, Один, молчи!<br />
+        Ты удачи в боях<br />
+        не делил справедливо:<br />
+        не воинам храбрым,<br />
+        но трусам победу<br />
+        нередко дарил ты».</>
     },
     {
         id: 26,
-        number: '25.',
+        number: '23.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Óðinn kvað:<br />
+        «Veiztu, ef ek gaf,<br />
+        þeim er ek gefa né skylda,<br />
+        inum slævurum, sigr,<br />
+        átta vetr<br />
+        vartu fyr jörð neðan,<br />
+        kýr mólkandi ok kona,<br />
+        ok hefr þú þar börn borit,<br />
+        ok hugða ek þat args aðal.»</>,
 
-        contentRU: <></>
+        contentRU: <>Один сказал:<br />
+        «Коль не воинам храбрым,<br />
+        но трусам победу<br />
+        нередко дарил я,<br />
+        то ты под землей<br />
+        сидел восемь зим,<br />
+        доил там коров,<br />
+        рожал там детей,<br />
+        ты — муж женовидный».</>
     },
     {
         id: 27,
-        number: '26.',
+        number: '24.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Loki kvað:<br />
+        «En þik síða kóðu<br />
+        Sámseyu í,<br />
+        ok draptu á vétt sem völur;<br />
+        vitka líki<br />
+        fórtu verþjóð yfir,<br />
+        ok hugða ek þat args aðal.»</>,
 
-        contentRU: <></>
+        contentRU: <>Локи сказал:<br />
+        «А ты, я слышал,<br />
+        на острове Самсей<br />
+        бил в барабан,<br />
+        средь людей колдовал,<br />
+        как делают ведьмы, —<br />
+        ты — муж женовидный».</>
     },
     {
         id: 28,
-        number: '27.',
+        number: '25.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Frigg kvað:<br />
+        «Örlögum ykkrum<br />
+        skylið aldregi<br />
+        segja seggjum frá,<br />
+        hvat it æsir tveir<br />
+        drýgðuð í árdaga;<br />
+        firrisk æ forn rök firar.»</>,
 
-        contentRU: <></>
+        contentRU: <>Фригг сказала:<br />
+        «К чему говорить<br />
+        о прежних делах,<br />
+        о том, что свершали<br />
+        вы, двое асов,<br />
+        в давнее время;<br />
+        что старое трогать!»</>
     },
     {
         id: 29,
-        number: '28.',
+        number: '26.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Loki kvað:<br />
+        «Þegi þú, Frigg,<br />
+        þú ert Fjörgyns mær<br />
+        ok hefr æ vergjörn verit,<br />
+        er þá Véa ok Vilja<br />
+        léztu þér, Viðris kvæn,<br />
+        báða i baðm of tekit.»</>,
 
-        contentRU: <></>
+        contentRU: <>Локи сказал:<br />
+        «Ты, Фригг, молчи!<br />
+        Ты Фьёргюна дочь<br />
+        и нравом распутна:<br />
+        хоть муж тебе Видрир,<br />
+        ты Вили и Ве<br />
+        обнимала обоих».</>
     },
     {
         id: 30,
-        number: '29.',
+        number: '27.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Frigg kvað:<br />
+        «Veiztu, ef ek inni ættak<br />
+        Ægis höllum i<br />
+        Baldri líkan bur,<br />
+        út þú né kvæmir<br />
+        frá ása sonum,<br />
+        ok væri þá at þér vreiðum vegit.»</>,
 
-        contentRU: <></>
+        contentRU: <>Фригг сказала:<br />
+        «Будь тут со мной<br />
+        у Эгира в доме<br />
+        Бальдру подобный,<br />
+        ты б не покинул<br />
+        пиршество асов<br />
+        без схватки жестокой».</>
     },
     {
         id: 31,
-        number: '30.',
+        number: '28.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Loki kvað:<br />
+        «Enn vill þú, Frigg,<br />
+        at ek fleiri telja<br />
+        mína meinstafi:<br />
+        ek því réð,<br />
+        er þú ríða sér-at<br />
+        síðan Baldr at sölum.»</>,
 
-        contentRU: <></>
+        contentRU: <>Локи сказал:<br />
+        «Хочешь ты, Фригг,<br />
+        дальше послушать<br />
+        дерзкие речи:<br />
+        из-за меня ведь<br />
+        Бальдр не вернется<br />
+        к тебе никогда».</>
     },
     {
         id: 32,
-        number: '31.',
+        number: '29.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Freyja kvað:<br />
+        «Ærr ertu, Loki,<br />
+        er þú yðra telr<br />
+        ljóta leiðstafi;<br />
+        örlög Frigg,<br />
+        hygg ek, at öll viti,<br />
+        þótt hon sjalfgi segi.»</>,
 
-        contentRU: <></>
+        contentRU: <>Фрейя сказала:<br />
+        «Безумен ты, Локи,<br />
+        зачем о злодействах<br />
+        рассказ ты завел:<br />
+        все судьбы Фригг,<br />
+        я думаю, знает,<br />
+        хоть в тайне хранит их».</>
     },
     {
         id: 33,
-        number: '32.',
+        number: '30.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Loki kvað:<br />
+        «Þegi þú, Freyja,<br />
+        þik kann ek fullgörva,<br />
+        er-a þér vamma vant:<br />
+        ása ok alfa,<br />
+        er hér inni eru,<br />
+        hverr hefir þinn hór verit.»</>,
 
-        contentRU: <></>
+        contentRU: <>Локи сказал:<br />
+        «Ты, Фрейя, молчи!<br />
+        Тебя ль мне не знать;<br />
+        ты тоже порочна:<br />
+        всем ты любовь<br />
+        свою отдавала —<br />
+        всем асам и альвам».</>
     },
     {
         id: 34,
-        number: '33.',
+        number: '31.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Freyja kvað:<br />
+        «Flá er þér tunga,<br />
+        hygg ek, at þér fremr myni<br />
+        ógótt of gala;<br />
+        reiðir ro þér æsir<br />
+        ok ásynjur,<br />
+        hryggr muntu heim fara.»</>,
 
-        contentRU: <></>
+        contentRU: <>Фрейя сказала:<br />
+        «Лжив твой язык;<br />
+        тебя он, я знаю,<br />
+        к беде приведет:<br />
+        разгневаны асы<br />
+        и асиньи тоже,<br />
+        понурым вернешься ты».</>
     },
     {
         id: 35,
-        number: '34.',
+        number: '32.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Loki kvað:<br />
+        «Þegi þú, Freyja,<br />
+        þú ert fordæða<br />
+        ok meini blandin mjök,<br />
+        síz þik at bræðr þínum<br />
+        stóðu blíð regin<br />
+        ok myndir þú þá, Freyja, frata.»</>,
 
-        contentRU: <></>
+        contentRU: <>Локи сказал:<br />
+        «Ты, Фрейя, молчи!<br />
+        Ты, злобная ведьма,<br />
+        погрязла в разврате:<br />
+        не тебе ли пришлось —<br />
+        пойманной с братом —<br />
+        визжать с перепугу!»</>
     },
     {
         id: 36,
-        number: '35.',
+        number: '33.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Njörðr kvað:<br />
+        «Þat er válítit,<br />
+        þótt sér varðir<br />
+        vers fái, hós eða hvárs;<br />
+        hitt er undr, er áss ragr<br />
+        er hér inn of kominn<br />
+        ok hefir sá börn of borit.»</>,
 
-        contentRU: <></>
+        contentRU: <>Ньёрд сказал:<br />
+        «Беды нет великой,<br />
+        коль женщина делит<br />
+        ложе с мужчиной,<br />
+        хуже, что ас<br />
+        женовидный, рожавший,<br />
+        на пир наш пришел».</>
     },
     {
         id: 37,
-        number: '36.',
+        number: '34.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Loki kvað:<br />
+        «Þegi þú, Njörðr,<br />
+        þú vart austr heðan<br />
+        gíls of sendr at goðum;<br />
+        Hymis meyjar<br />
+        höfðu þik at hlandtrogi<br />
+        ok þér i munn migu.»</>,
 
-        contentRU: <></>
+        contentRU: <>Локи сказал:<br />
+        «Ты, Ньёрд, молчи!<br />
+        Не ты ли богами<br />
+        был послан заложником;<br />
+        дочери Хюмира<br />
+        в рот твой мочились,<br />
+        как будто в корыто».</>
     },
     {
         id: 38,
-        number: '37.',
+        number: '35.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Njörðr kvað:<br />
+        «Sú erumk líkn,<br />
+        er ek vark langt heðan<br />
+        gísl of sendr at goðum,<br />
+        þá ek mög gat,<br />
+        þann er mangi fíár,<br />
+        ok þykkir sá ása jaðarr.»</>,
 
-        contentRU: <></>
+        contentRU: <>Ньёрд сказал:<br />
+        «Пусть я далеко<br />
+        заложником был,<br />
+        но тем я утешен,<br />
+        что сына родил я, —<br />
+        дорог он всем,<br />
+        он — первый из асов».</>
     },
     {
         id: 39,
-        number: '38.',
+        number: '36.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Loki kvað:<br />
+        «Hættu nú, Njörðr,<br />
+        haf þú á hófi þik,<br />
+        munk-a ek því leyna lengr:<br />
+        við systur þinni<br />
+        gaztu slíkan mög,<br />
+        ok er-a þó vánu verr.»</>,
 
-        contentRU: <></>
+        contentRU: <>Локи сказал:<br />
+        «Ньёрд, перестань!<br />
+        Похваляться не смей!<br />
+        Не стану скрывать я:<br />
+        прижил ты сына<br />
+        с сестрою родной, —<br />
+        что может быть хуже!»</>
     },
     {
         id: 40,
-        number: '39.',
+        number: '37.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Týr kvað:<br />
+        «Freyr er beztr<br />
+        allra ballriða<br />
+        ása görðum í;<br />
+        mey hann né grætir<br />
+        né manns konu<br />
+        ok leysir ór höftum hvern.»</>,
 
-        contentRU: <></>
+        contentRU: <>Тюр сказал:<br />
+        «Фрейр самый лучший<br />
+        в чертоге богов<br />
+        воинственный всадник;<br />
+        не обижал он<br />
+        дев или жен,<br />
+        отпускал полоненных».</>
     },
     {
         id: 41,
-        number: '40.',
+        number: '38.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Loki kvað:<br />
+        «Þegi þú, Týr,<br />
+        þú kunnir aldregi<br />
+        bera tilt með tveim;<br />
+        handar innar hægri<br />
+        mun ek hinnar geta,<br />
+        er þér sleit Fenrir frá.»</>,
 
-        contentRU: <></>
+        contentRU: <>Локи сказал:<br />
+        «Ты, Тюр, молчи!<br />
+        Мирить не умел ты<br />
+        в распре врагов:<br />
+        правую руку<br />
+        твою помяну я,<br />
+        что Фенрир отгрыз».</>
     },
     {
         id: 42,
-        number: '41.',
+        number: '39.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Týr kvað:<br />
+        «Handar em ek vanr,<br />
+        en þú hróðrsvitnis,<br />
+        böl er beggja þrá;<br />
+        ulfgi hefir ok vel,<br />
+        er í böndum skal<br />
+        bíða ragnarökrs.»</>,
 
-        contentRU: <></>
+        contentRU: <>Тюр сказал:<br />
+        «Я лишился руки,<br />
+        а Хродрвитнир где твой!<br />
+        Оба терпим потерю;<br />
+        но тяжко и Волку<br />
+        в цепях дожидаться<br />
+        заката богов».</>
     },
     {
         id: 43,
-        number: '42.',
+        number: '40.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Loki kvað:<br />
+        «Þegi þú, Týr,<br />
+        þat varð þinni konu,<br />
+        at hon átti mög við mér;<br />
+        öln né penning<br />
+        hafðir þú þess aldregi<br />
+        vanréttis, vesall.»</>,
 
-        contentRU: <></>
+        contentRU: <>Локи сказал:<br />
+        «Ты, Тюр, молчи!<br />
+        От меня родила<br />
+        жена твоя сына;<br />
+        за бесчестье с тобой<br />
+        я не расчелся —<br />
+        стерпел ты, презренный!»</>
     },
     {
         id: 44,
-        number: '43.',
+        number: '41.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Freyr kvað:<br />
+        «Ulfr sé ek liggja<br />
+        árósi fyrir,<br />
+        unz rjúfask regin;<br />
+        því mundu næst,<br />
+        nema þú nú þegir,<br />
+        bundinn, bölvasmiðr.»</>,
 
-        contentRU: <></>
+        contentRU: <>Фрейр сказал:<br />
+        «Волк должен лежать<br />
+        в устье реки<br />
+        до кончины богов;<br />
+        если ты не замолкнешь —<br />
+        тотчас же будешь<br />
+        закован, злодей!»</>
     },
     {
         id: 45,
-        number: '44.',
+        number: '42.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Loki kvað:<br />
+        «Gulli keypta<br />
+        léztu Gymis dóttur<br />
+        ok seldir þitt svá sverð;<br />
+        en er Múspells synir<br />
+        ríða Myrkvið yfir,<br />
+        veizt-a þú þá, vesall, hvé þú vegr.»</>,
 
-        contentRU: <></>
+        contentRU: <>Локи сказал:<br />
+        «Ты золото отдал<br />
+        за Гюмира дочь<br />
+        и меч свой в придачу;<br />
+        чем драться ты будешь,<br />
+        коль Муспелля дети<br />
+        сквозь Мюрквид поскачут?»</>
     },
     {
         id: 46,
-        number: '45.',
+        number: '43.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Byggvir kvað:<br />
+        «Veiztu, ef ek eðli ættak<br />
+        sem Ingunar-Freyr<br />
+        ok svá sælligt setr,<br />
+        mergi smæra<br />
+        mölða ek þá meinkráku<br />
+        ok lemða alla í liðu.»</>,
 
-        contentRU: <></>
+        contentRU: <>Бюггвир сказал:<br />
+        «Был бы я равен<br />
+        Ингунар-Фрейру<br />
+        в чертоге счастливом,<br />
+        я б растерзал,<br />
+        разорвал бы я в клочья<br />
+        ворону зловредную».</>
     },
     {
         id: 47,
-        number: '46.',
+        number: '44.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Loki kvað:<br />
+        «Hvat er þat it litla<br />
+        er ek þat löggra sék<br />
+        ok snapvíst snapir?<br />
+        At eyrum Freys<br />
+        mundu æ vera<br />
+        ok und kvernum klaka.»</>,
 
-        contentRU: <></>
+        contentRU: <>Локи сказал:<br />
+        «Что там за мелочь<br />
+        виляет хвостом,<br />
+        пресмыкаясь пред сильными?<br />
+        Вечно подачек<br />
+        ты просишь у Фрейра,<br />
+        за жерновом ноя».</>
     },
     {
         id: 48,
-        number: '47.',
+        number: '45.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Byggvir kvað:<br />
+        «Byggvir ek heiti,<br />
+        en mik bráðan kveða<br />
+        goð öll ok gumar;<br />
+        því em ek hér hróðugr,<br />
+        at drekka Hrofts megir<br />
+        allir öl saman.»</>,
 
-        contentRU: <></>
+        contentRU: <>Бюггвир сказал:<br />
+        «Бюггвир зовусь,<br />
+        меж людей и богов<br />
+        быстрым прослыл я;<br />
+        почетно сидеть мне<br />
+        с сынами Хрофта<br />
+        на пиршестве пышном».</>
     },
     {
         id: 49,
-        number: '48.',
+        number: '46.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Loki kvað:<br />
+        «Þegi þú, Byggvir,<br />
+        þú kunnir aldregi<br />
+        deila með mönnum mat,<br />
+        ok þik í flets strái<br />
+        finna né máttu,<br />
+        þá er vágu verar.»</>,
 
-        contentRU: <></>
+        contentRU: <>Локи сказал:<br />
+        «Ты, Бюггвир, молчи!<br />
+        Не умел никогда ты<br />
+        пищу подать;<br />
+        не ты ль под столами<br />
+        в соломе скрывался<br />
+        при каждом сраженье!»</>
     },
     {
         id: 50,
-        number: '49.',
+        number: '47.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Heimdallr kvað:<br />
+        «Ölr ertu, Loki,<br />
+        svá at þú ert örviti,<br />
+        — hví né lezk-a-ðu, Loki? —<br />
+        því at ofdrykkja<br />
+        veldr alda hveim,<br />
+        er sína mælgi né man-at.»</>,
 
-        contentRU: <></>
+        contentRU: <>Хеймдалль сказал:<br />
+        «Ты, Локи, от пива<br />
+        рассудка лишился;<br />
+        замолкнешь ли, Локи?<br />
+        Язык свой не в силах<br />
+        тот обуздать,<br />
+        кто не в меру напьется».</>
     },
     {
         id: 51,
-        number: '50.',
+        number: '48.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Loki kvað:<br />
+        «Þegi þú, Heimdallr,<br />
+        þér var í árdaga<br />
+        it ljóta líf of lagit;<br />
+        örgu baki<br />
+        þú munt æ vera<br />
+        ok vaka vörðr goða.»</>,
 
-        contentRU: <></>
+        contentRU: <>Локи сказал:<br />
+        «Ты, Хеймдалль, молчи!<br />
+        От начала времен<br />
+        удел твой нелегок:<br />
+        с мокрой спиной<br />
+        на страже богов<br />
+        неустанно стоишь ты».</>
     },
     {
         id: 52,
-        number: '51.',
+        number: '49.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Skaði kvað:<br />
+        «Létt er þér, Loki;<br />
+        mun-at-tu lengi svá<br />
+        leika lausum hala,<br />
+        því at þik á hjörvi<br />
+        skulu ins hrímkalda magar<br />
+        görnum binda goð.»</>,
 
-        contentRU: <></>
+        contentRU: <>Скади сказала:<br />
+        «Локи, ты весел,<br />
+        но будешь недолго<br />
+        резвиться на воле,<br />
+        ибо к скале тебя<br />
+        сына кишками<br />
+        боги привяжут».</>
     },
     {
         id: 53,
-        number: '52.',
+        number: '50.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Loki kvað:<br />
+        «Veiztu, ef mik á hjörvi<br />
+        skulu ins hrímkalda magar<br />
+        görnum binda goð,<br />
+        fyrstr ok efstr<br />
+        var ek at fjörlagi,<br />
+        þars vér á Þjaza þrifum.»</>,
 
-        contentRU: <></>
+        contentRU: <>Локи сказал:<br />
+        «Если к скале меня<br />
+        сына кишками<br />
+        боги привяжут —<br />
+        знай, что я первым<br />
+        был и последним<br />
+        в час гибели Тьяци».</>
     },
     {
         id: 54,
-        number: '53.',
+        number: '51.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Skaði kvað:<br />
+        «Veiztu, ef fyrstr ok efstr<br />
+        vartu at fjörlagi,<br />
+        þá er ér á Þjaza þrifuð,<br />
+        frá mínum véum<br />
+        ok vöngum skulu<br />
+        þér æ köld ráð koma.»</>,
 
-        contentRU: <></>
+        contentRU: <>Скади сказала:<br />
+        «Если ты первым<br />
+        был и последним<br />
+        в час гибели Тьяци,<br />
+        то в доме моем<br />
+        всегда тебе будут<br />
+        гибель готовить».</>
     },
     {
         id: 55,
-        number: '54.',
+        number: '52.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Loki kvað:<br />
+        «Léttari í málum<br />
+        vartu við Laufeyjar son,<br />
+        þá er þú létz mér á beð þinn boðit;<br />
+        getit verðr oss slíks,<br />
+        ef vér görva skulum<br />
+        telja vömmin vár.»</>,
 
-        contentRU: <></>
+        contentRU: <>Локи сказал:<br />
+        «Ласковей ты<br />
+        призывала когда-то<br />
+        Локи на ложе:<br />
+        стоит то вспомнить,<br />
+        коль начали счет мы<br />
+        деяний недобрых».</>
     },
     {
         id: 56,
-        number: '55.',
-        class:'main_wrapper_text_stanza',
+        class:'main_wrapper_text_string',
 
-        contentON: <></>,
+        contentON: <><p>
+        þá gekk Sif fram ok byrlaði Loka í hrímkálki mjöð ok mælti:
+        </p></>,
 
-        contentRU: <></>
+        contentRU: <><p>
+        Тогда вышла вперед Сив, налила Локи в хрустальный кубок меду и сказала:
+        </p></>
     },
     {
         id: 57,
-        number: '56.',
+        number: '53.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>«Heill ver þú nú, Loki,<br />
+        ok tak við hrímkálki<br />
+        fullum forns mjaðar,<br />
+        heldr þú hana eina<br />
+        látir með ása sonum<br />
+        vammalausa vera.»</>,
 
-        contentRU: <></>
+        contentRU: <>«Привет тебе, Локи!<br />
+        Кубок хрустальный<br />
+        с медом прими<br />
+        и меня на пиру<br />
+        могучих богов<br />
+        в речах не порочь!»</>
     },
     {
         id: 58,
-        number: '57.',
-        class:'main_wrapper_text_stanza',
+        class:'main_wrapper_text_string',
 
-        contentON: <></>,
+        contentON: <><p>
+        Hann tók við horni ok drakk af:
+        </p></>,
 
-        contentRU: <></>
+        contentRU: <><p>
+        Он взял рог и выпил.
+        </p></>
     },
     {
         id: 59,
-        number: '58.',
+        number: '54.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>«Ein þú værir,<br />
+        ef þú svá værir,<br />
+        vör ok gröm at veri;<br />
+        einn ek veit,<br />
+        svá at ek vita þykkjumk,<br />
+        hór ok af Hlórriða,<br />
+        ok var þat sá inn lævísi Loki.»</>,
 
-        contentRU: <></>
+        contentRU: <>«Порочить не стал бы,<br />
+        когда б ты и впрямь<br />
+        была неприступной;<br />
+        но знаю, с одним —<br />
+        и мне ли не знать! —<br />
+        изменила ты мужу, —<br />
+        то был злобный Локи».</>
     },
     {
         id: 60,
-        number: '59.',
+        number: '55.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Beyla kvað:<br />
+        «Fjöll öll skjalfa;<br />
+        hygg ek á för vera<br />
+        heiman Hlórriða;<br />
+        han ræðr ró,<br />
+        þeim er rægir hér<br />
+        goð öll ok guma.»</>,
 
-        contentRU: <></>
+        contentRU: <>Бейла сказала:<br />
+        «Горы дрожат,<br />
+        то едет, я думаю,<br />
+        Хлорриди грозный;<br />
+        принудит молчать он<br />
+        того, кто поносит<br />
+        могучих богов».</>
     },
     {
         id: 61,
-        number: '60.',
+        number: '56.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Loki kvað:<br />
+        «Þegi þú, Beyla,<br />
+        þú ert Byggvis kvæn<br />
+        ok meini blandinn mjök,<br />
+        ókynjan meira<br />
+        kom-a med ása sonum;<br />
+        öll ertu, deigja, dritin.»</>,
         
-        contentRU: <></>
+        contentRU: <>Локи сказал:<br />
+        «Ты, Бейла, молчи!<br />
+        Ты, жена Бюггвира,<br />
+        мрази вместилище;<br />
+        выродок ты<br />
+        меж богами великими,<br />
+        скотница грязная!»</>
     },
     {
         id: 62,
-        number: '61.',
+        number: '57.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Þá kom Þórr at ok kvað:<br />
+        «Þegi þú, rög vættr,<br />
+        þér skal minn þrúðhamarr,<br />
+        Mjöllnir, mál fyrnema;<br />
+        herðaklett<br />
+        drep ek þér halsi af,<br />
+        ok verðr þá þínu fjörvi of farit.»</>,
         
-        contentRU: <></>
+        contentRU: <>Тут вошел Тор и сказал:<br />
+        «Мерзостный, смолкни!<br />
+        Принудит к молчанью<br />
+        тебя молот Мьёлльнир!<br />
+        Скалу твоих плеч<br />
+        с плеч я снесу, —<br />
+        конец твой настанет».</>
     },
     {
         id: 63,
-        number: '62.',
+        number: '58.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Loki kvað:<br />
+        «Jarðar burr<br />
+        er hér nú inn kominn,<br />
+        hví þrasir þú svá, Þórr?<br />
+        En þá þorir þú ekki,<br />
+        er þú skalt við ulfinn vega,<br />
+        ok svelgr hann allan Sigföður.»</>,
         
-        contentRU: <></>
+        contentRU: <>Локи сказал:<br />
+        «Вот и сын Ёрд<br />
+        прибыл сюда:<br />
+        что ж браниться ты начал?<br />
+        Не будешь ты смелым,<br />
+        с Волком сражаясь,<br />
+        что Одина сгубит».</>
     },
     {
         id: 64,
-        number: '63.',
+        number: '59.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Þórr kvað:<br />
+        «Þegi þú, rög vættr,<br />
+        þér skal minn þrúðhamarr,<br />
+        Mjöllnir, mál fyrnema;<br />
+        upp ek þér verp<br />
+        ok á austrvega,<br />
+        síðan þik manngi sér.»</>,
         
-        contentRU: <></>
+        contentRU: <>Тор сказал:<br />
+        «Мерзостный, смолкни!<br />
+        Принудит к молчанью<br />
+        тебя молот Мьёлльнир!<br />
+        Вверх я заброшу<br />
+        тебя на восток, —<br />
+        сгинешь совсем ты».</>
     },
     {
         id: 65,
-        number: '64.',
+        number: '60.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Loki kvað:<br />
+        «Austrförum þínum<br />
+        skaltu aldregi<br />
+        segja seggjum frá,<br />
+        síz í hanska þumlungi<br />
+        hnúkðir þú einheri,<br />
+        ok þóttisk-a þú þá Þórr vera.»</>,
         
-        contentRU: <></>
+        contentRU: <>Локи сказал:<br />
+        «Полно тебе<br />
+        поминать о походах<br />
+        твоих на восток, —<br />
+        ты в рукавице<br />
+        прятался там,<br />
+        не опомнясь от страха».</>
     },
     {
         id: 66,
-        number: '65.',
+        number: '61.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Þórr kvað:<br />
+        «Þegi þú, rög vættr,<br />
+        þér skal minn þrúðhamarr,<br />
+        Mjöllnir, mál fyrnema;<br />
+        hendi inni hægri<br />
+        drep ek þik Hrungnis bana,<br />
+        svá at þér brotnar beina hvat.»</>,
         
-        contentRU: <></>
+        contentRU: <>Тор сказал:<br />
+        «Мерзостный, смолкни!<br />
+        Принудит к молчанью<br />
+        тебя молот Мьёлльнир!<br />
+        Правой рукой<br />
+        на тебя я обрушу<br />
+        Хрунгнира гибель».</>
     },
     {
         id: 67,
-        number: '66.',
+        number: '62.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Loki kvað:<br />
+        «Lifa ætla ek mér<br />
+        langan aldr,<br />
+        þóttú hætir hamri mér;<br />
+        skarpar álar<br />
+        þóttu þér Skrýmis vera,<br />
+        ok máttir-a þú þá nesti ná,<br />
+        ok svalzt þú þá hungri heill.»</>,
         
-        contentRU: <></>
+        contentRU: <>Локи сказал:<br />
+        «Еще доведется<br />
+        долго мне жить,<br />
+        угроз не страшусь я;<br />
+        Скрюмира были<br />
+        крепки ремни,<br />
+        до еды не достать —<br />
+        от голода гиб ты».</>
     },
     {
         id: 68,
-        number: '67.',
+        number: '63.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Þórr kvað:<br />
+        «Þegi þú, rög vættr,<br />
+        þér skal minn þrúðhamarr,<br />
+        Mjöllnir, mál fyrnema;<br />
+        Hrungnis bani<br />
+        mun þér í hel koma<br />
+        fyr nágrindr neðan.»</>,
         
-        contentRU: <></>
+        contentRU: <>Тор сказал:<br />
+        «Мерзостный, смолкни!<br />
+        Принудит к молчанью<br />
+        тебя молот Мьёлльнир!<br />
+        Хрунгнира гибель<br />
+        швырнет тебя в Хель<br />
+        к воротам смерти».</>
     },
     {
         id: 69,
-        number: '68.',
+        number: '64.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Loki kvað:<br />
+        «Kvað ek fyr ásum,<br />
+        kvað ek fyr ása sonum,<br />
+        þats mik hvatti hugr,<br />
+        en fyr þér einum<br />
+        mun ek út ganga,<br />
+        því at ek veit, at þú vegr.</>,
         
-        contentRU: <></>
+        contentRU: <>Локи сказал:<br />
+        «Я высказал асам,<br />
+        я высказал асиньям<br />
+        все, не таясь,<br />
+        тебе ж уступлю<br />
+        и отсюда уйду, —<br />
+        ты станешь сражаться.</>
     },
     {
         id: 70,
-        number: '69.',
+        number: '65.',
         class:'main_wrapper_text_stanza',
 
-        contentON: <></>,
+        contentON: <>Öl gerðir þú, Ægir,<br />
+        en þú aldri munt<br />
+        síðan sumbl of gera;<br />
+        eiga þín öll,<br />
+        er hér inni er,<br />
+        leiki yfir logi,<br />
+        ok brenni þér á baki.»</>,
         
-        contentRU: <></>
+        contentRU: <>Пива ты, Эгир,<br />
+        немало припас,<br />
+        но напрасно старался:<br />
+        пусть все, чем владеешь,<br />
+        в пламени сгинет,<br />
+        пусть опалит<br />
+        огонь тебе спину!»</>
     },
     {
         id: 71,
-        number: '70.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 72,
-        number: '71.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 73,
-        number: '72.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 74,
-        number: '73.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 75,
-        number: '74.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 76,
-        number: '75.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 77,
-        number: '76.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 78,
-        number: '77.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 79,
-        number: '78.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 80,
-        number: '79.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 81,
-        number: '80.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 82,
-        number: '81.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 83,
-        number: '82.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 84,
-        number: '83.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 85,
-        number: '84.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 86,
-        number: '85.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 87,
-        number: '86.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 88,
-        number: '87.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 89,
-        number: '88.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 90,
-        number: '89.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 91,
-        number: '90.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 92,
-        number: '91.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 93,
-        number: '92.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 94,
-        number: '93.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 95,
-        number: '94.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 96,
-        number: '95.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 97,
-        number: '96.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 98,
-        number: '97.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 99,
-        number: '98.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 100,
-        number: '99.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 101,
-        number: '100.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 102,
-        number: '101.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 103,
-        number: '102.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 104,
-        number: '103.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 105,
-        number: '104.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 106,
-        number: '105.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 107,
-        number: '106.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 108,
-        number: '107.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 109,
-        number: '108.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 110,
-        number: '109.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 111,
-        number: '110.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 112,
-        number: '111.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 113,
-        number: '112.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 114,
-        number: '113.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 115,
-        number: '114.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 116,
-        number: '115.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 117,
-        number: '116.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 118,
-        number: '117.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 119,
-        number: '118.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 120,
-        number: '119.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 121,
-        number: '120.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 122,
-        number: '121.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 123,
-        number: '122.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 124,
-        number: '123.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 125,
-        number: '124.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 126,
-        number: '125.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 127,
-        number: '126.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 128,
-        number: '127.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 129,
-        number: '128.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 130,
-        number: '129.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 131,
-        number: '130.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 132,
-        number: '131.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 133,
-        number: '132.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 134,
-        number: '133.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 135,
-        number: '134.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 136,
-        number: '135.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 137,
-        number: '136.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 138,
-        number: '137.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 139,
-        number: '138.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 140,
-        number: '139.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 141,
-        number: '140.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 142,
-        number: '141.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 143,
-        number: '142.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 144,
-        number: '143.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 145,
-        number: '144.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 146,
-        number: '145.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 147,
-        number: '146.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 148,
-        number: '147.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 149,
-        number: '148.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 150,
-        number: '149.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 151,
-        number: '150.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 152,
-        number: '151.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 153,
-        number: '152.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 154,
-        number: '153.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 155,
-        number: '154.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 156,
-        number: '155.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 157,
-        number: '156.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 158,
-        number: '157.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 159,
-        number: '158.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 160,
-        number: '159.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 161,
-        number: '160.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 162,
-        number: '161.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 163,
-        number: '162.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 164,
-        number: '163.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
-    },
-    {
-        id: 165,
-        number: '164.',
-        class:'main_wrapper_text_stanza',
-
-        contentON: <></>,
-        
-        contentRU: <></>
+        class:'main_wrapper_text_string',
+
+        contentON: <><p>
+        En eftir þetta falst Loki í Fránangrsforsi í lax líki. Þar tóku æsir hann. Hann var bundinn með þörmum sonar síns, Vála, en Narfi, sonr hans, varð at vargi. Skaði tók eitrorm ok festi upp yfir annlit Loka. Draup þar ór eitr. Sigyn, kona Loka, sat þar ok helt munnlaug undir eitrið. En er munnlaugin var full, bar hon út eitrið, en meðan draup eitrit á Loka. Þá kippðist hann svá hart við, at þaðan af skalf jörð öll. Þat eru nú kallaðir landsskjálftar.
+        </p></>,
+        
+        contentRU: <><p>
+        После этого Локи, в образе лосося, спрятался в водопаде фьорда Франангр. Там асы поймали его. Он был связан кишками сына своего Нари, а сын его Нарви превратился в волка. Скади взяла ядовитую змею и повесила ее над лицом Локи. Из змеи капал яд. Сигюн, жена Локи, сидела там и подставляла чашу под капающий яд. А когда чаша наполнялась, она ее выносила, и в это время яд из змеи капал на Локи. Тогда он корчился так сильно, что вся земля дрожала. Теперь это называется землетрясением.
+        </p></>
     },
 ];
 
