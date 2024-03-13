@@ -17,7 +17,7 @@ export const SONGOFHEROES = [
     {text: 'Helgakviða Hundingsbana önnur', title: 'Вторая Песнь о Хельги, убийце Хундинга', link: '/about-heroes/second-song-of-helga-the-slayer-of-hunding'},
     {text: 'Frá dauða Sinfjötla', title: 'О смерти Синфьётли', link: '/about-heroes/about-the-death-of-sinfjotli'},
     {text: 'Grípisspá', title: 'Пророчество Грипира', link: '/about-heroes/gripirs-prophecy'},
-    {text: 'Reginsmál', title: 'Речи Регина', link: '/about-heroes/reginas-speeches'},
+    {text: 'Reginsmál', title: 'Речи Регина', link: '/about-heroes/regins-speeches'},
     {text: 'Fáfnismál', title: 'Речи Фафнира', link: '/about-heroes/fafnirs-speeches'},
     {text: 'Sigrdrífumál', title: 'Речи Сигдривы', link: '/about-heroes/sigdrivas-speeches'},
     {text: 'Sigurðarkviða in meiri', title: 'Отрывок Песни о Сигурде', link: '/about-heroes/excerpt-from-a-song-about-sigurd'},

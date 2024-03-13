@@ -1,6 +1,6 @@
 // import React, {useEffect} from 'react';
-// import { songofharbard } from './index.utils';
-// const SongOfHarbard = () => {
+// import { test } from './index.utils';
+// const Test = () => {
 //     useEffect(() => {
 //         document.title = "Jardarr | Hárbarðsljóð";
 //     }, []);
@@ -11,7 +11,7 @@
 //             <h1 class="poem_title">Hárbarðsljóð</h1>
 //             <h2 class="poem_title poem_title_sub">Песнь о Харбарде</h2>
 //             </div>
-//             {songofharbard.map((poem, id) => {
+//             {test.map((poem, id) => {
 //                 return (
 //                     <div key={id} className={poem.class}>
 //                         <div>{poem.number}</div>
@@ -32,4 +32,4 @@
 //      );
 // }
  
-// export default SongOfHarbard;
+// export default Test;
