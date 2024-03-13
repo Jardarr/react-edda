@@ -21,7 +21,7 @@ export const SONGOFHEROES = [
     {text: 'Fáfnismál', title: 'Речи Фафнира', link: '/about-heroes/fafnirs-speeches'},
     {text: 'Sigrdrífumál', title: 'Речи Сигдривы', link: '/about-heroes/sigdrivas-speeches'},
     {text: 'Sigurðarkviða in meiri', title: 'Отрывок Песни о Сигурде', link: '/about-heroes/excerpt-from-a-song-about-sigurd'},
-    {text: 'Guðrúnarkviða in fyrsta', title: 'Первая Песнь о Гудрун', link: '/about-heroes/the-first-song-of-gudrun'},
+    {text: 'Guðrúnarkviða in fyrsta', title: 'Первая Песнь о Гудрун', link: '/about-heroes/first-song-of-gudrun'},
     {text: 'Sigurðarkviða in skamma', title: 'Краткая Песнь о Сигурде', link: '/about-heroes/a-short-song-about-sigurd'},
     {text: 'Helreið Brynhildar', title: 'Поездка Брюнхильд в Хель', link: '/about-heroes/brynhilds-journey-to-hel'},
     {text: 'Dráp Niflunga', title: 'Убийство Нифлунгов', link: '/about-heroes/killing-the-niflungs'},
