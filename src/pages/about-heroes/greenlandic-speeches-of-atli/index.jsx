@@ -1,11 +1,18 @@
 import React, {useEffect} from 'react';
 import { greenlandicspeechesofatli } from './index.utils';
+import { Helmet } from "react-helmet";
 const GreenlandicSpeechesOfAtli = () => {
     useEffect(() => {
         document.title = "Jardarr | Atlamál in grænlenzku";
     }, []);
     return ( 
         <main className="main_wrapper">
+        <Helmet>
+            <meta property="og:site_name" content="Jardarr | Elder Edda" />
+            <meta property="og:title" content="Atlamál in grænlenzku" />
+            <meta property="og:description" content="Гренландские Речи Атли" />
+            <meta property="og:type" content="website" />
+        </Helmet>
         <div className="main_wrapper_text">
             <div className="main_wrapper_text_string">
             <h1 className="poem_title">Atlamál in grænlenzku</h1>

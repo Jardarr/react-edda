@@ -1,11 +1,18 @@
 import React, {useEffect} from 'react';
 import { thirdsongofgudrun } from './index.utils';
+import { Helmet } from "react-helmet";
 const ThirdSongOfGudrun = () => {
     useEffect(() => {
         document.title = "Jardarr | Guðrúnarkviða in þriðja";
     }, []);
     return ( 
         <main className="main_wrapper">
+        <Helmet>
+            <meta property="og:site_name" content="Jardarr | Elder Edda" />
+            <meta property="og:title" content="Guðrúnarkviða in þriðja" />
+            <meta property="og:description" content="Третья Песнь о Гудрун" />
+            <meta property="og:type" content="website" />
+        </Helmet>
         <div className="main_wrapper_text">
             <div className="main_wrapper_text_string">
             <h1 className="poem_title">Guðrúnarkviða in þriðja</h1>

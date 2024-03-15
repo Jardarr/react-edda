@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import { NavLink } from "react-router-dom";
 import { EDDASONGS } from "./../../components/header/HeaderItemList";
+import { Helmet } from "react-helmet";
 
 const EddaSongs = () => {
   useEffect(() => {
@@ -8,6 +9,12 @@ const EddaSongs = () => {
   }, []);
   return ( 
     <main className="main_wrapper">
+      <Helmet>
+        <meta property="og:site_name" content="Jardarr | Elder Edda" />
+        <meta property="og:title" content="Eddukvæði" />
+        <meta property="og:description" content="Эддические песни" />
+        <meta property="og:type" content="website" />
+      </Helmet>
       <div className="main_wrapper_text">
         <div className="main_wrapper_text_string">
           <h1 className="poem_title">Eddukvæði</h1>

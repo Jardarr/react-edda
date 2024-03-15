@@ -1,7 +1,15 @@
 import React from "react";
+import { Helmet } from "react-helmet";
 const Main = () => {
     return ( 
         <main className="hero">
+            <Helmet>
+            <meta property="og:site_name" content="Jardarr | Elder Edda"></meta>
+            <meta property="og:title" content="Старшая Эдда" />
+            <meta property="og:description" content="Памятник древнескандинавской поэзии" />
+            <meta property="og:image" content="./../img/og-logo.jpg" />
+            <meta property="og:type" content="website" />
+            </Helmet>
             <div className="hero_text hero_background">
                 <span
                 >Hearing I ask <br />

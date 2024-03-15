@@ -1,11 +1,18 @@
 import React, {useEffect} from 'react';
 import { odinsravenspell } from './index.utils';
+import { Helmet } from "react-helmet";
 const OdinsRavenSpell = () => {
     useEffect(() => {
         document.title = "Jardarr | Hrafnagaldr Óðins";
     }, []);
     return ( 
         <main className="main_wrapper">
+        <Helmet>
+            <meta property="og:site_name" content="Jardarr | Elder Edda" />
+            <meta property="og:title" content="Hrafnagaldr Óðins" />
+            <meta property="og:description" content="Воронова ворожба Одина" />
+            <meta property="og:type" content="website" />
+        </Helmet>
         <div className="main_wrapper_text">
             <div className="main_wrapper_text_string">
             <h1 className="poem_title">Forspjallsljóð<br />(Hrafnagaldr Óðins)</h1>

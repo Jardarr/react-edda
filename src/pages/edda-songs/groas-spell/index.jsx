@@ -1,11 +1,18 @@
 import React, {useEffect} from 'react';
 import { groasspell } from './index.utils';
+import { Helmet } from "react-helmet";
 const GroasSpell = () => {
     useEffect(() => {
         document.title = "Jardarr | Grógaldr";
     }, []);
     return ( 
         <main className="main_wrapper">
+        <Helmet>
+            <meta property="og:site_name" content="Jardarr | Elder Edda" />
+            <meta property="og:title" content="Grógaldr" />
+            <meta property="og:description" content="Заклинание Гроа, которое она, мёртвая, спела своему сыну" />
+            <meta property="og:type" content="website" />
+        </Helmet>
         <div className="main_wrapper_text">
             <div className="main_wrapper_text_string">
             <h1 className="poem_title">Grógaldr</h1>

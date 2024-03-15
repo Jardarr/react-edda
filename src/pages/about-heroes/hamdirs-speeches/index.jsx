@@ -1,11 +1,18 @@
 import React, {useEffect} from 'react';
 import { hamdirsspeeches } from './index.utils';
+import { Helmet } from "react-helmet";
 const HamdirsSpeeches = () => {
     useEffect(() => {
         document.title = "Jardarr | Hamðismál";
     }, []);
     return ( 
         <main className="main_wrapper">
+        <Helmet>
+            <meta property="og:site_name" content="Jardarr | Elder Edda" />
+            <meta property="og:title" content="Hamðismál" />
+            <meta property="og:description" content="Речи Хамдира" />
+            <meta property="og:type" content="website" />
+        </Helmet>
         <div className="main_wrapper_text">
             <div className="main_wrapper_text_string">
             <h1 className="poem_title">Hamðismál</h1>
