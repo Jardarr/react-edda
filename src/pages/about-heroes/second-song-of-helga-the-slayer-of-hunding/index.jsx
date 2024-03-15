@@ -5,13 +5,13 @@ const SecondSongOfHelgaTheSlayerOfHunding = () => {
         document.title = "Jardarr | Helgakviða Hundingsbana önnur";
     }, []);
     return ( 
-        <main class="main_wrapper">
-        <div class="main_wrapper_text">
-            <div class="main_wrapper_text_string">
-            <h1 class="poem_title">Helgakviða Hundingsbana önnur</h1>
-            <h2 class="poem_title poem_title_sub">Вторая Песнь о Хельги убийце Хундинга</h2>
+        <main className="main_wrapper">
+        <div className="main_wrapper_text">
+            <div className="main_wrapper_text_string">
+            <h1 className="poem_title">Helgakviða Hundingsbana önnur</h1>
+            <h2 className="poem_title poem_title_sub">Вторая Песнь о Хельги убийце Хундинга</h2>
             </div>
-            <div class="subtitle"><p>О Вёльсунгах</p></div>
+            <div className="subtitle"><p>О Вёльсунгах</p></div>
             {secondsongofhelgatheslayerofhunding.map((poem, id) => {
                 return (
                     <div key={id} className={poem.class}>
@@ -22,7 +22,7 @@ const SecondSongOfHelgaTheSlayerOfHunding = () => {
                     </div>
                 );
             })}
-            <div class="notes">
+            <div className="notes">
             <span>
                 <p>Древнеисландский текст, ред. Guðni Jónsson</p>
                 <p>Текст на русском языке в переводе А. И. Корсуна</p>

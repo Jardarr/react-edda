@@ -5,11 +5,11 @@ const SongOfThryme = () => {
         document.title = "Jardarr | Þrymskviða";
     }, []);
     return ( 
-        <main class="main_wrapper">
-        <div class="main_wrapper_text">
-            <div class="main_wrapper_text_string">
-            <h1 class="poem_title">Þrymskviða</h1>
-            <h2 class="poem_title poem_title_sub">Песнь о Трюме</h2>
+        <main className="main_wrapper">
+        <div className="main_wrapper_text">
+            <div className="main_wrapper_text_string">
+            <h1 className="poem_title">Þrymskviða</h1>
+            <h2 className="poem_title poem_title_sub">Песнь о Трюме</h2>
             </div>
             {songofthryme.map((poem, id) => {
                 return (
@@ -21,7 +21,7 @@ const SongOfThryme = () => {
                     </div>
                 );
             })}
-            <div class="notes">
+            <div className="notes">
             <span>
                 <p>Древнеисландский текст, ред. Guðni Jónsson</p>
                 <p>Текст на русском языке в переводе А. И. Корсуна</p>

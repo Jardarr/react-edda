@@ -5,11 +5,11 @@ const VolvasProphecy = () => {
         document.title = "Jardarr | Völuspá";
     }, []);
     return ( 
-        <main class="main_wrapper">
-        <div class="main_wrapper_text">
-            <div class="main_wrapper_text_string">
-            <h1 class="poem_title">Völuspá</h1>
-            <h2 class="poem_title poem_title_sub">Прорицание вёльвы</h2>
+        <main className="main_wrapper">
+        <div className="main_wrapper_text">
+            <div className="main_wrapper_text_string">
+            <h1 className="poem_title">Völuspá</h1>
+            <h2 className="poem_title poem_title_sub">Прорицание вёльвы</h2>
             </div>
             {volvasprophecy.map((poem, id) => {
                 return (
@@ -21,7 +21,7 @@ const VolvasProphecy = () => {
                     </div>
                 );
             })}
-            <div class="notes">
+            <div className="notes">
             <span>
                 <p>Древнеисландский текст, ред. Theodor Möbius, 1860 г.</p>
                 <p>Текст на русском языке в переводе А. И. Корсуна</p>

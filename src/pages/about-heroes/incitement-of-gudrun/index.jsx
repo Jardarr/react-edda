@@ -5,11 +5,11 @@ const IncitementOfGudrun = () => {
         document.title = "Jardarr | Guðrúnarhvöt";
     }, []);
     return ( 
-        <main class="main_wrapper">
-        <div class="main_wrapper_text">
-            <div class="main_wrapper_text_string">
-            <h1 class="poem_title">Guðrúnarhvöt</h1>
-            <h2 class="poem_title poem_title_sub">Подстрекательство Гудрун</h2>
+        <main className="main_wrapper">
+        <div className="main_wrapper_text">
+            <div className="main_wrapper_text_string">
+            <h1 className="poem_title">Guðrúnarhvöt</h1>
+            <h2 className="poem_title poem_title_sub">Подстрекательство Гудрун</h2>
             </div>
             {incitementofgudrun.map((poem, id) => {
                 return (
@@ -21,7 +21,7 @@ const IncitementOfGudrun = () => {
                     </div>
                 );
             })}
-            <div class="notes">
+            <div className="notes">
             <span>
                 <p>Древнеисландский текст, ред. Guðni Jónsson</p>
                 <p>Текст на русском языке в переводе А. И. Корсуна</p>

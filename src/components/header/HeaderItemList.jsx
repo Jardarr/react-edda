@@ -34,8 +34,8 @@ export const SONGOFHEROES = [
     {text: 'Hamðismál', title: 'Речи Хамдира', link: '/about-heroes/hamdirs-speeches'},
 ];
 export const EDDASONGS = [
-    {text: 'Baldrs draumar', title: 'Сны Бальдра или Песнь о Вегтаме', link: '/edda-songs/balders-dreams'},
-    {text: 'Rígsþula', title: 'Песнь о Риге', link: '/edda-songs/song-about-riga'},
+    {text: 'Baldrs draumar', title: 'Сны Бальдра или Песнь о Вегтаме', link: '/edda-songs/baldrs-dreams'},
+    {text: 'Rígsþula', title: 'Песнь о Риге', link: '/edda-songs/song-about-rig'},
     {text: 'Hyndluljóð', title: 'Песнь о Хюндле', link: '/edda-songs/song-of-hyndla'},
     {text: 'Völuspá in skamma', title: 'Краткое прорицание вёльвы', link: '/edda-songs/short-prophecy-of-volva'},
     {text: 'Gróttasöngr', title: 'Песнь о Гротти', link: '/edda-songs/song-about-grotti'},
